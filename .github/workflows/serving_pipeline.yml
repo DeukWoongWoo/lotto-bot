@@ -4,7 +4,7 @@ name: Serving pipeline
 on:
   # Allows you to run this workflow manually from the Actions tab
   schedule:
-    - cron: '0 10 * * 6'
+    - cron: "0 10 * * 6"
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -29,8 +29,8 @@ jobs:
           python pipeline_serving.py --id ${{ secrets.LOTTO_ID}} --pw ${{ secrets.LOTTO_PW}}
       - name: commit and push
         run: |
-          git config user.name hyunho1027
-          git config user.email ramanuzann@gmail.com
+          git config user.name deukwoongwoo
+          git config user.email suoong2@gmail.com
           git add .
           git commit -m "serving pipeline done [`date`]"
           git push
