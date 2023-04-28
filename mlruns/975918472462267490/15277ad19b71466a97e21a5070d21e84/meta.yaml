@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/15277ad19b71466a97e21a5070d21e84/artifacts
+end_time: 1682678951482
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 15277ad19b71466a97e21a5070d21e84
+run_name: efficient-donkey-368
+run_uuid: 15277ad19b71466a97e21a5070d21e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682678950361
+status: 3
+tags: []
+user_id: runner

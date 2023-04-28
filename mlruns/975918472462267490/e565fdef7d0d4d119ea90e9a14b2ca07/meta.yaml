@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e565fdef7d0d4d119ea90e9a14b2ca07/artifacts
+end_time: 1682678936742
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e565fdef7d0d4d119ea90e9a14b2ca07
+run_name: tasteful-midge-521
+run_uuid: e565fdef7d0d4d119ea90e9a14b2ca07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682678935167
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/66ea96e81cd849fd97250099b8ab79e3/artifacts
+end_time: 1682678953187
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 66ea96e81cd849fd97250099b8ab79e3
+run_name: painted-worm-968
+run_uuid: 66ea96e81cd849fd97250099b8ab79e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682678952359
+status: 3
+tags: []
+user_id: runner

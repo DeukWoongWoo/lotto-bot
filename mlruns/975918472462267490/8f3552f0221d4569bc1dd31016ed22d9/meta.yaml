@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8f3552f0221d4569bc1dd31016ed22d9/artifacts
+end_time: 1682678954801
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8f3552f0221d4569bc1dd31016ed22d9
+run_name: grandiose-bat-236
+run_uuid: 8f3552f0221d4569bc1dd31016ed22d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682678953200
+status: 3
+tags: []
+user_id: runner
