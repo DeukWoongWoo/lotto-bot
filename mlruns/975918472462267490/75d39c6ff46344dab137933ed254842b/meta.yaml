@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/75d39c6ff46344dab137933ed254842b/artifacts
+end_time: 1683281484557
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 75d39c6ff46344dab137933ed254842b
+run_name: ambitious-croc-517
+run_uuid: 75d39c6ff46344dab137933ed254842b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281482664
+status: 3
+tags: []
+user_id: runner

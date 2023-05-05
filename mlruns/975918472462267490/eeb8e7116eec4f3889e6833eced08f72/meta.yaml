@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eeb8e7116eec4f3889e6833eced08f72/artifacts
+end_time: 1683281482647
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eeb8e7116eec4f3889e6833eced08f72
+run_name: bedecked-mare-173
+run_uuid: eeb8e7116eec4f3889e6833eced08f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281481016
+status: 3
+tags: []
+user_id: runner

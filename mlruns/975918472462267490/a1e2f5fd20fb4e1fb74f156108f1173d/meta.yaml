@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a1e2f5fd20fb4e1fb74f156108f1173d/artifacts
+end_time: 1683281466879
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a1e2f5fd20fb4e1fb74f156108f1173d
+run_name: resilient-stag-188
+run_uuid: a1e2f5fd20fb4e1fb74f156108f1173d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281465516
+status: 3
+tags: []
+user_id: runner

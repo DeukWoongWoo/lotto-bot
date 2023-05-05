@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ba39b5f7b65044c9b1c700d31e0d0d9e/artifacts
+end_time: 1683281479599
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ba39b5f7b65044c9b1c700d31e0d0d9e
+run_name: zealous-eel-914
+run_uuid: ba39b5f7b65044c9b1c700d31e0d0d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281476114
+status: 3
+tags: []
+user_id: runner
