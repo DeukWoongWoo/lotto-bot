@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c79a6afc89694a71adc4634c17c4009d/artifacts
+end_time: 1683886243142
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c79a6afc89694a71adc4634c17c4009d
+run_name: amazing-carp-559
+run_uuid: c79a6afc89694a71adc4634c17c4009d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886242427
+status: 3
+tags: []
+user_id: runner

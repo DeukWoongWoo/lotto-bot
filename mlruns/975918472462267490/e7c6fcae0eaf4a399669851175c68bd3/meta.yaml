@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e7c6fcae0eaf4a399669851175c68bd3/artifacts
+end_time: 1683886258506
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e7c6fcae0eaf4a399669851175c68bd3
+run_name: invincible-bee-137
+run_uuid: e7c6fcae0eaf4a399669851175c68bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886256060
+status: 3
+tags: []
+user_id: runner

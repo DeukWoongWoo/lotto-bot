@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/712881a9852f4224979c1438da302833/artifacts
+end_time: 1683886254234
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 712881a9852f4224979c1438da302833
+run_name: calm-worm-451
+run_uuid: 712881a9852f4224979c1438da302833
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886251655
+status: 3
+tags: []
+user_id: runner

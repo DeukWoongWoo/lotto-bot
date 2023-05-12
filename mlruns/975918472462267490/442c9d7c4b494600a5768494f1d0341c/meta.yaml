@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/442c9d7c4b494600a5768494f1d0341c/artifacts
+end_time: 1683886245179
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 442c9d7c4b494600a5768494f1d0341c
+run_name: blushing-worm-711
+run_uuid: 442c9d7c4b494600a5768494f1d0341c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886243154
+status: 3
+tags: []
+user_id: runner
