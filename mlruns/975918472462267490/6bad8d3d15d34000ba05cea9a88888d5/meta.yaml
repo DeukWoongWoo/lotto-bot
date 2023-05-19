@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6bad8d3d15d34000ba05cea9a88888d5/artifacts
+end_time: 1684491035512
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6bad8d3d15d34000ba05cea9a88888d5
+run_name: gentle-shad-268
+run_uuid: 6bad8d3d15d34000ba05cea9a88888d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491034734
+status: 3
+tags: []
+user_id: runner
