@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d934856050e6421c9ce9235dc6570925/artifacts
+end_time: 1682678949595
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d934856050e6421c9ce9235dc6570925
+run_name: placid-mink-661
+run_uuid: d934856050e6421c9ce9235dc6570925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682678948421
+status: 3
+tags: []
+user_id: runner

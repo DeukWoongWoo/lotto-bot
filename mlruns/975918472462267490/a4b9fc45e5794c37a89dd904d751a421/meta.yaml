@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a4b9fc45e5794c37a89dd904d751a421/artifacts
+end_time: 1683886227106
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a4b9fc45e5794c37a89dd904d751a421
+run_name: handsome-loon-311
+run_uuid: a4b9fc45e5794c37a89dd904d751a421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886224265
+status: 3
+tags: []
+user_id: runner

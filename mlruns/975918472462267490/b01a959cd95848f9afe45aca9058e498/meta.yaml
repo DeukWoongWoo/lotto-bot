@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b01a959cd95848f9afe45aca9058e498/artifacts
+end_time: 1683281473323
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b01a959cd95848f9afe45aca9058e498
+run_name: rebellious-mole-973
+run_uuid: b01a959cd95848f9afe45aca9058e498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281470626
+status: 3
+tags: []
+user_id: runner

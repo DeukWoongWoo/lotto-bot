@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/df0f6d78f3e6467e8cfbab6567ec481d/artifacts
+end_time: 1684491032286
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: df0f6d78f3e6467e8cfbab6567ec481d
+run_name: sedate-goose-723
+run_uuid: df0f6d78f3e6467e8cfbab6567ec481d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491030876
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/70062f1fe62c42dcbee9f95568b467fd/artifacts
+end_time: 1682678941104
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 70062f1fe62c42dcbee9f95568b467fd
+run_name: luxuriant-fox-465
+run_uuid: 70062f1fe62c42dcbee9f95568b467fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682678939827
+status: 3
+tags: []
+user_id: runner

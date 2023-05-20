@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/34dc3507f1b942bdb083cb1594237008/artifacts
+end_time: 1683281485811
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 34dc3507f1b942bdb083cb1594237008
+run_name: skittish-ram-356
+run_uuid: 34dc3507f1b942bdb083cb1594237008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683281484569
+status: 3
+tags: []
+user_id: runner

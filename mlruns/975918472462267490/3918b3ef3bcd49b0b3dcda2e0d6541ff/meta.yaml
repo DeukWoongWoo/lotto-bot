@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3918b3ef3bcd49b0b3dcda2e0d6541ff/artifacts
+end_time: 1683886236755
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3918b3ef3bcd49b0b3dcda2e0d6541ff
+run_name: bustling-colt-548
+run_uuid: 3918b3ef3bcd49b0b3dcda2e0d6541ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886234205
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c41bff1479734d64a687e0b19e1e11b3/artifacts
+end_time: 1682678950348
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c41bff1479734d64a687e0b19e1e11b3
+run_name: indecisive-sheep-236
+run_uuid: c41bff1479734d64a687e0b19e1e11b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682678949608
+status: 3
+tags: []
+user_id: runner

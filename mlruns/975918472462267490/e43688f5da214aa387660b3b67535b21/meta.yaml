@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e43688f5da214aa387660b3b67535b21/artifacts
+end_time: 1683886248629
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e43688f5da214aa387660b3b67535b21
+run_name: traveling-crow-873
+run_uuid: e43688f5da214aa387660b3b67535b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683886245196
+status: 3
+tags: []
+user_id: runner

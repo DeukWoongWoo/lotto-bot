@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a005032926a646bab4a9722808a5f62e/artifacts
+end_time: 1684491047539
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a005032926a646bab4a9722808a5f62e
+run_name: capable-hog-683
+run_uuid: a005032926a646bab4a9722808a5f62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684491042908
+status: 3
+tags: []
+user_id: runner
