@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/340c1a0bb2e24717ba0af20522522cda/artifacts
+end_time: 1685095953559
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 340c1a0bb2e24717ba0af20522522cda
+run_name: fun-hawk-542
+run_uuid: 340c1a0bb2e24717ba0af20522522cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685095949446
+status: 3
+tags: []
+user_id: runner

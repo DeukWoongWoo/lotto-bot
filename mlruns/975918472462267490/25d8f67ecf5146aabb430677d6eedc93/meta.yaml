@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/25d8f67ecf5146aabb430677d6eedc93/artifacts
+end_time: 1685095970145
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 25d8f67ecf5146aabb430677d6eedc93
+run_name: luminous-mule-265
+run_uuid: 25d8f67ecf5146aabb430677d6eedc93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685095969069
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/35e2a301826c4038b35853fdb41f3400/artifacts
+end_time: 1685095946997
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 35e2a301826c4038b35853fdb41f3400
+run_name: gentle-sloth-93
+run_uuid: 35e2a301826c4038b35853fdb41f3400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685095946094
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ed6a43d321b44ce78b7c46087b110cb7/artifacts
+end_time: 1685095958891
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ed6a43d321b44ce78b7c46087b110cb7
+run_name: fun-robin-227
+run_uuid: ed6a43d321b44ce78b7c46087b110cb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685095954889
+status: 3
+tags: []
+user_id: runner

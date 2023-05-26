@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9b6997e35e0e403dac964092679d9414/artifacts
+end_time: 1685095946082
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9b6997e35e0e403dac964092679d9414
+run_name: languid-panda-16
+run_uuid: 9b6997e35e0e403dac964092679d9414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685095944726
+status: 3
+tags: []
+user_id: runner

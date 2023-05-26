@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c28faa22ad2b45908c6c2c2df172f498/artifacts
+end_time: 1685095964179
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c28faa22ad2b45908c6c2c2df172f498
+run_name: salty-lark-340
+run_uuid: c28faa22ad2b45908c6c2c2df172f498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685095961132
+status: 3
+tags: []
+user_id: runner

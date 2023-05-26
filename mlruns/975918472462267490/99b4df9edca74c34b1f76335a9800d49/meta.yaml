@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/99b4df9edca74c34b1f76335a9800d49/artifacts
+end_time: 1685095944714
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 99b4df9edca74c34b1f76335a9800d49
+run_name: victorious-wolf-514
+run_uuid: 99b4df9edca74c34b1f76335a9800d49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685095942185
+status: 3
+tags: []
+user_id: runner
