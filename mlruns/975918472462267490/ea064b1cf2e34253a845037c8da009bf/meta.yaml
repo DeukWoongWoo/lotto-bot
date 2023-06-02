@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ea064b1cf2e34253a845037c8da009bf/artifacts
+end_time: 1685700610521
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ea064b1cf2e34253a845037c8da009bf
+run_name: gentle-bass-522
+run_uuid: ea064b1cf2e34253a845037c8da009bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700609801
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6bc7c7d5f38e4bf4ae32f7e04c44610c/artifacts
+end_time: 1685700611071
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6bc7c7d5f38e4bf4ae32f7e04c44610c
+run_name: monumental-smelt-982
+run_uuid: 6bc7c7d5f38e4bf4ae32f7e04c44610c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700610533
+status: 3
+tags: []
+user_id: runner

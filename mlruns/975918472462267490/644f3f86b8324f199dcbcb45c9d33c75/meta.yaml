@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/644f3f86b8324f199dcbcb45c9d33c75/artifacts
+end_time: 1685700609787
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 644f3f86b8324f199dcbcb45c9d33c75
+run_name: serious-shad-167
+run_uuid: 644f3f86b8324f199dcbcb45c9d33c75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700608999
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ec088fd4c95a4716866490d010a97cab/artifacts
+end_time: 1685700612467
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ec088fd4c95a4716866490d010a97cab
+run_name: peaceful-crab-640
+run_uuid: ec088fd4c95a4716866490d010a97cab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700611081
+status: 3
+tags: []
+user_id: runner

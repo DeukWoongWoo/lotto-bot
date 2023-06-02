@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/72348ce9298d4050becdb9add17c579f/artifacts
+end_time: 1685700608984
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 72348ce9298d4050becdb9add17c579f
+run_name: zealous-steed-680
+run_uuid: 72348ce9298d4050becdb9add17c579f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685700608053
+status: 3
+tags: []
+user_id: runner
