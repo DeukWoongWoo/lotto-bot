@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/39ff6610f7464e91a975e5442ad8e020/artifacts
+end_time: 1686305428096
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 39ff6610f7464e91a975e5442ad8e020
+run_name: handsome-hound-546
+run_uuid: 39ff6610f7464e91a975e5442ad8e020
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305424094
+status: 3
+tags: []
+user_id: runner

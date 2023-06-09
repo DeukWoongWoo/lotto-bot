@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a99ba31f599944e3811dcc4f07450fec/artifacts
+end_time: 1686305411732
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a99ba31f599944e3811dcc4f07450fec
+run_name: masked-ant-956
+run_uuid: a99ba31f599944e3811dcc4f07450fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305411013
+status: 3
+tags: []
+user_id: runner

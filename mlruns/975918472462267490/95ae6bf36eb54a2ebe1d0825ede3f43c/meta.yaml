@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/95ae6bf36eb54a2ebe1d0825ede3f43c/artifacts
+end_time: 1686305423138
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 95ae6bf36eb54a2ebe1d0825ede3f43c
+run_name: rumbling-fish-270
+run_uuid: 95ae6bf36eb54a2ebe1d0825ede3f43c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305422027
+status: 3
+tags: []
+user_id: runner

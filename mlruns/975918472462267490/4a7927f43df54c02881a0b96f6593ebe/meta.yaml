@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4a7927f43df54c02881a0b96f6593ebe/artifacts
+end_time: 1686305420705
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4a7927f43df54c02881a0b96f6593ebe
+run_name: selective-rook-941
+run_uuid: 4a7927f43df54c02881a0b96f6593ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305419118
+status: 3
+tags: []
+user_id: runner

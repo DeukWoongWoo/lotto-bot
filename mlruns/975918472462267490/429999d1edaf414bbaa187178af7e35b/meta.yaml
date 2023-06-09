@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/429999d1edaf414bbaa187178af7e35b/artifacts
+end_time: 1686305411000
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 429999d1edaf414bbaa187178af7e35b
+run_name: learned-finch-170
+run_uuid: 429999d1edaf414bbaa187178af7e35b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686305409830
+status: 3
+tags: []
+user_id: runner
