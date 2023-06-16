@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b69a67fed4b04d0ebf1352bb529622d3/artifacts
+end_time: 1686910214351
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b69a67fed4b04d0ebf1352bb529622d3
+run_name: delightful-cow-981
+run_uuid: b69a67fed4b04d0ebf1352bb529622d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910213422
+status: 3
+tags: []
+user_id: runner

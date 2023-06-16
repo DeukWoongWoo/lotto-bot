@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/53d962bd4da140c9bd1ca5eea23df1ac/artifacts
+end_time: 1686910215775
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 53d962bd4da140c9bd1ca5eea23df1ac
+run_name: aged-ram-613
+run_uuid: 53d962bd4da140c9bd1ca5eea23df1ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910215034
+status: 3
+tags: []
+user_id: runner

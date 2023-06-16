@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3163341c07234cee829cf2bbe0f08970/artifacts
+end_time: 1686910219507
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3163341c07234cee829cf2bbe0f08970
+run_name: popular-pug-369
+run_uuid: 3163341c07234cee829cf2bbe0f08970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910218529
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/acc9714d243c4ae3b29a4fc3f8d3791b/artifacts
+end_time: 1686910208568
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: acc9714d243c4ae3b29a4fc3f8d3791b
+run_name: charming-bear-972
+run_uuid: acc9714d243c4ae3b29a4fc3f8d3791b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910206197
+status: 3
+tags: []
+user_id: runner

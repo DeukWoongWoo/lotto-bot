@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/aee708de06cb4ee2a56a848f4c19f195/artifacts
+end_time: 1686910200833
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: aee708de06cb4ee2a56a848f4c19f195
+run_name: monumental-worm-246
+run_uuid: aee708de06cb4ee2a56a848f4c19f195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910200234
+status: 3
+tags: []
+user_id: runner

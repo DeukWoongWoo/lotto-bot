@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b0b3235375d64f98a42d267ac228a63b/artifacts
+end_time: 1686910202181
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b0b3235375d64f98a42d267ac228a63b
+run_name: luxuriant-bass-985
+run_uuid: b0b3235375d64f98a42d267ac228a63b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910200846
+status: 3
+tags: []
+user_id: runner

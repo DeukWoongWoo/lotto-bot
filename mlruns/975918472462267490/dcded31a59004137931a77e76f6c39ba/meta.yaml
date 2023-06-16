@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dcded31a59004137931a77e76f6c39ba/artifacts
+end_time: 1686910202878
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dcded31a59004137931a77e76f6c39ba
+run_name: whimsical-goose-784
+run_uuid: dcded31a59004137931a77e76f6c39ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910202192
+status: 3
+tags: []
+user_id: runner

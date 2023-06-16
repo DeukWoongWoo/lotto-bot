@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d25f30c50781496dbfe4f0821ade8ffd/artifacts
+end_time: 1686910210728
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d25f30c50781496dbfe4f0821ade8ffd
+run_name: smiling-conch-396
+run_uuid: d25f30c50781496dbfe4f0821ade8ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910208580
+status: 3
+tags: []
+user_id: runner

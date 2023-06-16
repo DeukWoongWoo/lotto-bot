@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bdfae523f0dc4b4b97e5228b7e81c6db/artifacts
+end_time: 1686910212216
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bdfae523f0dc4b4b97e5228b7e81c6db
+run_name: casual-conch-850
+run_uuid: bdfae523f0dc4b4b97e5228b7e81c6db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686910210739
+status: 3
+tags: []
+user_id: runner
