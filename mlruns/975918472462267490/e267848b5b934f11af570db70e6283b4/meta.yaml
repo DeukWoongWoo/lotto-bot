@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e267848b5b934f11af570db70e6283b4/artifacts
+end_time: 1687515115202
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e267848b5b934f11af570db70e6283b4
+run_name: adorable-snake-177
+run_uuid: e267848b5b934f11af570db70e6283b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515112614
+status: 3
+tags: []
+user_id: runner

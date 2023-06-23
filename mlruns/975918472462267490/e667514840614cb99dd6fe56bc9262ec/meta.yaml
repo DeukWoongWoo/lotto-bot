@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e667514840614cb99dd6fe56bc9262ec/artifacts
+end_time: 1687515127501
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e667514840614cb99dd6fe56bc9262ec
+run_name: gaudy-perch-733
+run_uuid: e667514840614cb99dd6fe56bc9262ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515125406
+status: 3
+tags: []
+user_id: runner

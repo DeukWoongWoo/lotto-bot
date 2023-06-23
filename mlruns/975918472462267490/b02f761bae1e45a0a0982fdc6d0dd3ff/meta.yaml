@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b02f761bae1e45a0a0982fdc6d0dd3ff/artifacts
+end_time: 1687515129124
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b02f761bae1e45a0a0982fdc6d0dd3ff
+run_name: beautiful-finch-317
+run_uuid: b02f761bae1e45a0a0982fdc6d0dd3ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515127513
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/acd026e6ac2642139fa885f3ac616e82/artifacts
+end_time: 1687515123323
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: acd026e6ac2642139fa885f3ac616e82
+run_name: redolent-dolphin-910
+run_uuid: acd026e6ac2642139fa885f3ac616e82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515122486
+status: 3
+tags: []
+user_id: runner

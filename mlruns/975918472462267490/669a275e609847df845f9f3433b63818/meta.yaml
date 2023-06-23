@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/669a275e609847df845f9f3433b63818/artifacts
+end_time: 1687515125394
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 669a275e609847df845f9f3433b63818
+run_name: treasured-perch-961
+run_uuid: 669a275e609847df845f9f3433b63818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515124387
+status: 3
+tags: []
+user_id: runner

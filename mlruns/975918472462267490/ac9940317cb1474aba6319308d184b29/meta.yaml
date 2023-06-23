@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ac9940317cb1474aba6319308d184b29/artifacts
+end_time: 1687515122474
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ac9940317cb1474aba6319308d184b29
+run_name: fun-fish-561
+run_uuid: ac9940317cb1474aba6319308d184b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687515120115
+status: 3
+tags: []
+user_id: runner
