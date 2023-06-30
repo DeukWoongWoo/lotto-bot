@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b78197abc1f84d3f893e03681604ed34/artifacts
+end_time: 1688119863356
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b78197abc1f84d3f893e03681604ed34
+run_name: stylish-fawn-14
+run_uuid: b78197abc1f84d3f893e03681604ed34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688119862568
+status: 3
+tags: []
+user_id: runner

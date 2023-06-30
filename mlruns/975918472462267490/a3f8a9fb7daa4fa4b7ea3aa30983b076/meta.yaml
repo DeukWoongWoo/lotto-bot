@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a3f8a9fb7daa4fa4b7ea3aa30983b076/artifacts
+end_time: 1688119866671
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a3f8a9fb7daa4fa4b7ea3aa30983b076
+run_name: auspicious-snail-716
+run_uuid: a3f8a9fb7daa4fa4b7ea3aa30983b076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688119865675
+status: 3
+tags: []
+user_id: runner
