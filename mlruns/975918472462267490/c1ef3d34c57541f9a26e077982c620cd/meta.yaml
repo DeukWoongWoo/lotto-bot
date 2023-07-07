@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c1ef3d34c57541f9a26e077982c620cd/artifacts
+end_time: 1688724753612
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c1ef3d34c57541f9a26e077982c620cd
+run_name: enchanting-asp-433
+run_uuid: c1ef3d34c57541f9a26e077982c620cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724749395
+status: 3
+tags: []
+user_id: runner

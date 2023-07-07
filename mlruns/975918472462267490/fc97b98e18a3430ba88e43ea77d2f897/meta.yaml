@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fc97b98e18a3430ba88e43ea77d2f897/artifacts
+end_time: 1688724769708
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fc97b98e18a3430ba88e43ea77d2f897
+run_name: sassy-midge-612
+run_uuid: fc97b98e18a3430ba88e43ea77d2f897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724766244
+status: 3
+tags: []
+user_id: runner

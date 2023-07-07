@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0e59ad10ad7946d68054a5055a92b8fc/artifacts
+end_time: 1688724744961
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0e59ad10ad7946d68054a5055a92b8fc
+run_name: melodic-toad-387
+run_uuid: 0e59ad10ad7946d68054a5055a92b8fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724742456
+status: 3
+tags: []
+user_id: runner

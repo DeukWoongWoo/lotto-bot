@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8d9e90f2e1a14b159a42e349aa824784/artifacts
+end_time: 1688724758609
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8d9e90f2e1a14b159a42e349aa824784
+run_name: loud-fawn-51
+run_uuid: 8d9e90f2e1a14b159a42e349aa824784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724756649
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8e6891dbe043497d86fadbdbe7549029/artifacts
+end_time: 1688724756637
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8e6891dbe043497d86fadbdbe7549029
+run_name: honorable-hound-980
+run_uuid: 8e6891dbe043497d86fadbdbe7549029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724755337
+status: 3
+tags: []
+user_id: runner

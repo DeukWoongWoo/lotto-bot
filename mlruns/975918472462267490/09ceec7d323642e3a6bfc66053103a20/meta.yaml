@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/09ceec7d323642e3a6bfc66053103a20/artifacts
+end_time: 1688724765256
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 09ceec7d323642e3a6bfc66053103a20
+run_name: defiant-dove-432
+run_uuid: 09ceec7d323642e3a6bfc66053103a20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724764584
+status: 3
+tags: []
+user_id: runner

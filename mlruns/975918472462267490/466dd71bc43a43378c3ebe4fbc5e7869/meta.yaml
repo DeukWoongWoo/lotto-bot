@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/466dd71bc43a43378c3ebe4fbc5e7869/artifacts
+end_time: 1688724766239
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 466dd71bc43a43378c3ebe4fbc5e7869
+run_name: clumsy-panda-410
+run_uuid: 466dd71bc43a43378c3ebe4fbc5e7869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724765267
+status: 3
+tags: []
+user_id: runner

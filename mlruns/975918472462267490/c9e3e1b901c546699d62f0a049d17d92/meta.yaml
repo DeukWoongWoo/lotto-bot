@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c9e3e1b901c546699d62f0a049d17d92/artifacts
+end_time: 1688724742417
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c9e3e1b901c546699d62f0a049d17d92
+run_name: intelligent-duck-420
+run_uuid: c9e3e1b901c546699d62f0a049d17d92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688724740976
+status: 3
+tags: []
+user_id: runner
