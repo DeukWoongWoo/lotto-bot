@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f75a3e20d01748aa96f600e030628d3b/artifacts
+end_time: 1689329555105
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f75a3e20d01748aa96f600e030628d3b
+run_name: chill-finch-176
+run_uuid: f75a3e20d01748aa96f600e030628d3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329552945
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7268aa005b3641d99f640ca90d7542a6/artifacts
+end_time: 1689329511892
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7268aa005b3641d99f640ca90d7542a6
+run_name: amusing-owl-125
+run_uuid: 7268aa005b3641d99f640ca90d7542a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329511144
+status: 3
+tags: []
+user_id: runner

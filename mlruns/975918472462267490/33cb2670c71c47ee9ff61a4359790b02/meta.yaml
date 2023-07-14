@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/33cb2670c71c47ee9ff61a4359790b02/artifacts
+end_time: 1689329529503
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 33cb2670c71c47ee9ff61a4359790b02
+run_name: handsome-auk-800
+run_uuid: 33cb2670c71c47ee9ff61a4359790b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329520183
+status: 3
+tags: []
+user_id: runner

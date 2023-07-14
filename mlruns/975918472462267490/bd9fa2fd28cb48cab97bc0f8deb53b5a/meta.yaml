@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bd9fa2fd28cb48cab97bc0f8deb53b5a/artifacts
+end_time: 1689329561928
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bd9fa2fd28cb48cab97bc0f8deb53b5a
+run_name: sincere-goose-855
+run_uuid: bd9fa2fd28cb48cab97bc0f8deb53b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329555118
+status: 3
+tags: []
+user_id: runner

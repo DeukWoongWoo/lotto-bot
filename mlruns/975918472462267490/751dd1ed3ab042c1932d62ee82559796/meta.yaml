@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/751dd1ed3ab042c1932d62ee82559796/artifacts
+end_time: 1689329545355
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 751dd1ed3ab042c1932d62ee82559796
+run_name: melodic-smelt-500
+run_uuid: 751dd1ed3ab042c1932d62ee82559796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689329536879
+status: 3
+tags: []
+user_id: runner
