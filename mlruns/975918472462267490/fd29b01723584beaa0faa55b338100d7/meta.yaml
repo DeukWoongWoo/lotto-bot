@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fd29b01723584beaa0faa55b338100d7/artifacts
+end_time: 1689934344619
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fd29b01723584beaa0faa55b338100d7
+run_name: defiant-ant-761
+run_uuid: fd29b01723584beaa0faa55b338100d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934343653
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d03852d0094848e1a898a2aababea46d/artifacts
+end_time: 1689934343633
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d03852d0094848e1a898a2aababea46d
+run_name: rogue-snail-185
+run_uuid: d03852d0094848e1a898a2aababea46d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934342090
+status: 3
+tags: []
+user_id: runner

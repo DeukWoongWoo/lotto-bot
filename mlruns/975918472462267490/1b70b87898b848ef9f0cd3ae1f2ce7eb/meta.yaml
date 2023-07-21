@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1b70b87898b848ef9f0cd3ae1f2ce7eb/artifacts
+end_time: 1689934329054
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1b70b87898b848ef9f0cd3ae1f2ce7eb
+run_name: omniscient-frog-69
+run_uuid: 1b70b87898b848ef9f0cd3ae1f2ce7eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934327717
+status: 3
+tags: []
+user_id: runner

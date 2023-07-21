@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/47422216672642b7866a6c67d4cbcdd5/artifacts
+end_time: 1689934321674
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 47422216672642b7866a6c67d4cbcdd5
+run_name: silent-foal-55
+run_uuid: 47422216672642b7866a6c67d4cbcdd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689934318022
+status: 3
+tags: []
+user_id: runner
