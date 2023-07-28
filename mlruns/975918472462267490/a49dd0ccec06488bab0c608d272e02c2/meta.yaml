@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a49dd0ccec06488bab0c608d272e02c2/artifacts
+end_time: 1690539107542
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a49dd0ccec06488bab0c608d272e02c2
+run_name: puzzled-roo-959
+run_uuid: a49dd0ccec06488bab0c608d272e02c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539106277
+status: 3
+tags: []
+user_id: runner

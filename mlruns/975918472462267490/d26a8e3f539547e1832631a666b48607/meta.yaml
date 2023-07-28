@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d26a8e3f539547e1832631a666b48607/artifacts
+end_time: 1690539115198
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d26a8e3f539547e1832631a666b48607
+run_name: useful-quail-933
+run_uuid: d26a8e3f539547e1832631a666b48607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539114306
+status: 3
+tags: []
+user_id: runner

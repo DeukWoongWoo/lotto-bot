@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0ee77af2988a4e308e24730742b9b72d/artifacts
+end_time: 1690539116106
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0ee77af2988a4e308e24730742b9b72d
+run_name: handsome-wasp-26
+run_uuid: 0ee77af2988a4e308e24730742b9b72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539115210
+status: 3
+tags: []
+user_id: runner

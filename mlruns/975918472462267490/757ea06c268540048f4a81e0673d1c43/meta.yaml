@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/757ea06c268540048f4a81e0673d1c43/artifacts
+end_time: 1690539092312
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 757ea06c268540048f4a81e0673d1c43
+run_name: invincible-snake-387
+run_uuid: 757ea06c268540048f4a81e0673d1c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539088819
+status: 3
+tags: []
+user_id: runner

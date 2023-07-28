@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/99666a496af44d9ca5e7c1570baca53b/artifacts
+end_time: 1690539102022
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 99666a496af44d9ca5e7c1570baca53b
+run_name: welcoming-stork-117
+run_uuid: 99666a496af44d9ca5e7c1570baca53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539100748
+status: 3
+tags: []
+user_id: runner

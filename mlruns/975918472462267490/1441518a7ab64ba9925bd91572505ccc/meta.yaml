@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1441518a7ab64ba9925bd91572505ccc/artifacts
+end_time: 1690539113345
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1441518a7ab64ba9925bd91572505ccc
+run_name: amazing-fawn-769
+run_uuid: 1441518a7ab64ba9925bd91572505ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539112382
+status: 3
+tags: []
+user_id: runner

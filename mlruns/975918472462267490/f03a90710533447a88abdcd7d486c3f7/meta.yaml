@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f03a90710533447a88abdcd7d486c3f7/artifacts
+end_time: 1690539122590
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f03a90710533447a88abdcd7d486c3f7
+run_name: intrigued-dog-297
+run_uuid: f03a90710533447a88abdcd7d486c3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539116112
+status: 3
+tags: []
+user_id: runner

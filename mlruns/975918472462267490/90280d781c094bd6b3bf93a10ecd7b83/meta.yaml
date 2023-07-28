@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/90280d781c094bd6b3bf93a10ecd7b83/artifacts
+end_time: 1690539114293
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 90280d781c094bd6b3bf93a10ecd7b83
+run_name: dashing-smelt-810
+run_uuid: 90280d781c094bd6b3bf93a10ecd7b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690539113358
+status: 3
+tags: []
+user_id: runner
