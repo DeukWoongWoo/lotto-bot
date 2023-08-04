@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cab403c3efc5472bb8bd57a6b58d73e3/artifacts
+end_time: 1691143908860
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cab403c3efc5472bb8bd57a6b58d73e3
+run_name: welcoming-mink-270
+run_uuid: cab403c3efc5472bb8bd57a6b58d73e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691143907943
+status: 3
+tags: []
+user_id: runner

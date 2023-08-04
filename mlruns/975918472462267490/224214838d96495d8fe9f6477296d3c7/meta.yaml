@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/224214838d96495d8fe9f6477296d3c7/artifacts
+end_time: 1691143923098
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 224214838d96495d8fe9f6477296d3c7
+run_name: adorable-cub-928
+run_uuid: 224214838d96495d8fe9f6477296d3c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691143921208
+status: 3
+tags: []
+user_id: runner

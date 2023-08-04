@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4b4101a2307f4118b73c7fe1e120f342/artifacts
+end_time: 1691143926485
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4b4101a2307f4118b73c7fe1e120f342
+run_name: overjoyed-worm-871
+run_uuid: 4b4101a2307f4118b73c7fe1e120f342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691143925584
+status: 3
+tags: []
+user_id: runner
