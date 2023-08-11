@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b7f37f82b8bf45d5a56954b4d02c5d0a/artifacts
+end_time: 1691748861460
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b7f37f82b8bf45d5a56954b4d02c5d0a
+run_name: nebulous-zebra-63
+run_uuid: b7f37f82b8bf45d5a56954b4d02c5d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748859950
+status: 3
+tags: []
+user_id: runner

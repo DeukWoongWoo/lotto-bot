@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a580b439ec54486eb9018ff7f6926a8f/artifacts
+end_time: 1691748868403
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a580b439ec54486eb9018ff7f6926a8f
+run_name: rebellious-fly-305
+run_uuid: a580b439ec54486eb9018ff7f6926a8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748864973
+status: 3
+tags: []
+user_id: runner

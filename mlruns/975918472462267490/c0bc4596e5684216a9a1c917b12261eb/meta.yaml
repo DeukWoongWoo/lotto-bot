@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c0bc4596e5684216a9a1c917b12261eb/artifacts
+end_time: 1691748850912
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c0bc4596e5684216a9a1c917b12261eb
+run_name: silent-roo-729
+run_uuid: c0bc4596e5684216a9a1c917b12261eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748849331
+status: 3
+tags: []
+user_id: runner

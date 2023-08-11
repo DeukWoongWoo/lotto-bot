@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a1902ce91c8c4965b873fcbd619d5de5/artifacts
+end_time: 1691748859936
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a1902ce91c8c4965b873fcbd619d5de5
+run_name: upbeat-steed-566
+run_uuid: a1902ce91c8c4965b873fcbd619d5de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691748856914
+status: 3
+tags: []
+user_id: runner
