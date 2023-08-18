@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d26056be1dd54d2ea51f1b3bfa16ee93/artifacts
+end_time: 1692353431947
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d26056be1dd54d2ea51f1b3bfa16ee93
+run_name: stylish-ram-788
+run_uuid: d26056be1dd54d2ea51f1b3bfa16ee93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353430633
+status: 3
+tags: []
+user_id: runner

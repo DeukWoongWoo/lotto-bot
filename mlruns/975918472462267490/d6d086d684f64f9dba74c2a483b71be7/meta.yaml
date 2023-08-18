@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d6d086d684f64f9dba74c2a483b71be7/artifacts
+end_time: 1692353433651
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d6d086d684f64f9dba74c2a483b71be7
+run_name: masked-perch-59
+run_uuid: d6d086d684f64f9dba74c2a483b71be7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353431959
+status: 3
+tags: []
+user_id: runner

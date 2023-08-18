@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6fa25a3f9a354389a11e9213cd23a82b/artifacts
+end_time: 1692353425149
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6fa25a3f9a354389a11e9213cd23a82b
+run_name: merciful-colt-577
+run_uuid: 6fa25a3f9a354389a11e9213cd23a82b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353424364
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8be1f839d2b24f2bb11279bfb47d5c7e/artifacts
+end_time: 1692353441779
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8be1f839d2b24f2bb11279bfb47d5c7e
+run_name: treasured-shrew-175
+run_uuid: 8be1f839d2b24f2bb11279bfb47d5c7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353438020
+status: 3
+tags: []
+user_id: runner

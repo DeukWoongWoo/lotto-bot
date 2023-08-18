@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/10f5db3ca0164ad29d9a78c0aeb84aae/artifacts
+end_time: 1692353438014
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 10f5db3ca0164ad29d9a78c0aeb84aae
+run_name: resilient-carp-389
+run_uuid: 10f5db3ca0164ad29d9a78c0aeb84aae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692353435970
+status: 3
+tags: []
+user_id: runner
