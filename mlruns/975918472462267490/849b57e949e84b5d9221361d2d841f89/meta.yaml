@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/849b57e949e84b5d9221361d2d841f89/artifacts
+end_time: 1692958227989
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 849b57e949e84b5d9221361d2d841f89
+run_name: blushing-hare-114
+run_uuid: 849b57e949e84b5d9221361d2d841f89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958224758
+status: 3
+tags: []
+user_id: runner

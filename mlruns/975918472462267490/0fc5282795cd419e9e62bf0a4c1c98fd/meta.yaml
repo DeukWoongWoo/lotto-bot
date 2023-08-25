@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0fc5282795cd419e9e62bf0a4c1c98fd/artifacts
+end_time: 1692958244443
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0fc5282795cd419e9e62bf0a4c1c98fd
+run_name: big-grouse-610
+run_uuid: 0fc5282795cd419e9e62bf0a4c1c98fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958243925
+status: 3
+tags: []
+user_id: runner

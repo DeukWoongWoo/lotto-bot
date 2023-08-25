@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/00a53335f2834a2984895bcab06e1695/artifacts
+end_time: 1692958247165
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 00a53335f2834a2984895bcab06e1695
+run_name: wistful-foal-818
+run_uuid: 00a53335f2834a2984895bcab06e1695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958246166
+status: 3
+tags: []
+user_id: runner

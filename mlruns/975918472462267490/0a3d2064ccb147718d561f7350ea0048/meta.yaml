@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0a3d2064ccb147718d561f7350ea0048/artifacts
+end_time: 1692958246150
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0a3d2064ccb147718d561f7350ea0048
+run_name: intrigued-grouse-209
+run_uuid: 0a3d2064ccb147718d561f7350ea0048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958245272
+status: 3
+tags: []
+user_id: runner

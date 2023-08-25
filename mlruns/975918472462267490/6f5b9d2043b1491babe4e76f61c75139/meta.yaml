@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6f5b9d2043b1491babe4e76f61c75139/artifacts
+end_time: 1692958243910
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6f5b9d2043b1491babe4e76f61c75139
+run_name: dazzling-pug-801
+run_uuid: 6f5b9d2043b1491babe4e76f61c75139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958243020
+status: 3
+tags: []
+user_id: runner

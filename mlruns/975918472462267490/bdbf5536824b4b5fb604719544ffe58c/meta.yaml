@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bdbf5536824b4b5fb604719544ffe58c/artifacts
+end_time: 1692958236705
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bdbf5536824b4b5fb604719544ffe58c
+run_name: awesome-cub-148
+run_uuid: bdbf5536824b4b5fb604719544ffe58c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958234345
+status: 3
+tags: []
+user_id: runner

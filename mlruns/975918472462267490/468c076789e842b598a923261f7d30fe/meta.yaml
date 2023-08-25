@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/468c076789e842b598a923261f7d30fe/artifacts
+end_time: 1692958231235
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 468c076789e842b598a923261f7d30fe
+run_name: indecisive-finch-385
+run_uuid: 468c076789e842b598a923261f7d30fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692958228011
+status: 3
+tags: []
+user_id: runner
