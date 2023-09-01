@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/813f037ae5444dc4a5f921b115c65332/artifacts
+end_time: 1693563131161
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 813f037ae5444dc4a5f921b115c65332
+run_name: agreeable-flea-487
+run_uuid: 813f037ae5444dc4a5f921b115c65332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563129164
+status: 3
+tags: []
+user_id: runner

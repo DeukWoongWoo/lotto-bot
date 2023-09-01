@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cd231d868cf440b99396342887c46103/artifacts
+end_time: 1693563149623
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cd231d868cf440b99396342887c46103
+run_name: dazzling-calf-375
+run_uuid: cd231d868cf440b99396342887c46103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563143307
+status: 3
+tags: []
+user_id: runner

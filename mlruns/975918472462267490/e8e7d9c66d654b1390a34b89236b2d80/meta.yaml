@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e8e7d9c66d654b1390a34b89236b2d80/artifacts
+end_time: 1693563115652
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e8e7d9c66d654b1390a34b89236b2d80
+run_name: beautiful-fowl-290
+run_uuid: e8e7d9c66d654b1390a34b89236b2d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563106726
+status: 3
+tags: []
+user_id: runner

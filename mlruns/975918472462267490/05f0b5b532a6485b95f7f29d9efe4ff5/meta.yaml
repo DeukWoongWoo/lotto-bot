@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/05f0b5b532a6485b95f7f29d9efe4ff5/artifacts
+end_time: 1693563143252
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 05f0b5b532a6485b95f7f29d9efe4ff5
+run_name: luxuriant-trout-587
+run_uuid: 05f0b5b532a6485b95f7f29d9efe4ff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563137692
+status: 3
+tags: []
+user_id: runner

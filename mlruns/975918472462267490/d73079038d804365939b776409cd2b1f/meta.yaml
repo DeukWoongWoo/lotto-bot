@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d73079038d804365939b776409cd2b1f/artifacts
+end_time: 1693563164204
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d73079038d804365939b776409cd2b1f
+run_name: victorious-fly-196
+run_uuid: d73079038d804365939b776409cd2b1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693563158478
+status: 3
+tags: []
+user_id: runner
