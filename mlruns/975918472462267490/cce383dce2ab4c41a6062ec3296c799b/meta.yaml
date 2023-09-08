@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cce383dce2ab4c41a6062ec3296c799b/artifacts
+end_time: 1694167815001
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cce383dce2ab4c41a6062ec3296c799b
+run_name: sassy-crow-185
+run_uuid: cce383dce2ab4c41a6062ec3296c799b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167813630
+status: 3
+tags: []
+user_id: runner

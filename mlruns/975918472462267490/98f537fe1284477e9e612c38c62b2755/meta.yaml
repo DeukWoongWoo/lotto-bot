@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/98f537fe1284477e9e612c38c62b2755/artifacts
+end_time: 1694167807437
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 98f537fe1284477e9e612c38c62b2755
+run_name: funny-ox-791
+run_uuid: 98f537fe1284477e9e612c38c62b2755
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167805915
+status: 3
+tags: []
+user_id: runner

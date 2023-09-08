@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/654dd042d7214b30b5529f0bf68fa844/artifacts
+end_time: 1694167815740
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 654dd042d7214b30b5529f0bf68fa844
+run_name: whimsical-bear-579
+run_uuid: 654dd042d7214b30b5529f0bf68fa844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167815013
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/951d0322de5d4846a26ff2cfbd38c653/artifacts
+end_time: 1694167804265
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 951d0322de5d4846a26ff2cfbd38c653
+run_name: auspicious-jay-339
+run_uuid: 951d0322de5d4846a26ff2cfbd38c653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167802801
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cca74a61b50c40dca935042af3a4e874/artifacts
+end_time: 1694167808269
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cca74a61b50c40dca935042af3a4e874
+run_name: painted-donkey-780
+run_uuid: cca74a61b50c40dca935042af3a4e874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167807448
+status: 3
+tags: []
+user_id: runner

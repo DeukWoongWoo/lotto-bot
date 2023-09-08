@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/55b4211725c24808b34359ad0ba7f909/artifacts
+end_time: 1694167823698
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 55b4211725c24808b34359ad0ba7f909
+run_name: handsome-penguin-577
+run_uuid: 55b4211725c24808b34359ad0ba7f909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167820341
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6f5df7c095cd46c4b71fd78f9d89fcb3/artifacts
+end_time: 1694167811992
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6f5df7c095cd46c4b71fd78f9d89fcb3
+run_name: righteous-pug-594
+run_uuid: 6f5df7c095cd46c4b71fd78f9d89fcb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167810663
+status: 3
+tags: []
+user_id: runner

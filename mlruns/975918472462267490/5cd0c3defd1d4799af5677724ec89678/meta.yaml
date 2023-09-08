@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5cd0c3defd1d4799af5677724ec89678/artifacts
+end_time: 1694167802789
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5cd0c3defd1d4799af5677724ec89678
+run_name: melodic-flea-389
+run_uuid: 5cd0c3defd1d4799af5677724ec89678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167802089
+status: 3
+tags: []
+user_id: runner

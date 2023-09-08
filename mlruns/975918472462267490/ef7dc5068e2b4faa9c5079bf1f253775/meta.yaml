@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ef7dc5068e2b4faa9c5079bf1f253775/artifacts
+end_time: 1694167810651
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ef7dc5068e2b4faa9c5079bf1f253775
+run_name: adorable-sow-315
+run_uuid: ef7dc5068e2b4faa9c5079bf1f253775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694167808280
+status: 3
+tags: []
+user_id: runner
