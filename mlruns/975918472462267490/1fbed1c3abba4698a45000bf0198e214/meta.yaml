@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1fbed1c3abba4698a45000bf0198e214/artifacts
+end_time: 1694772625211
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1fbed1c3abba4698a45000bf0198e214
+run_name: redolent-chimp-738
+run_uuid: 1fbed1c3abba4698a45000bf0198e214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772623356
+status: 3
+tags: []
+user_id: runner

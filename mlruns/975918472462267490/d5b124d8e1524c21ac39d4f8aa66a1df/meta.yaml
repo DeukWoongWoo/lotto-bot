@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d5b124d8e1524c21ac39d4f8aa66a1df/artifacts
+end_time: 1694772629737
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d5b124d8e1524c21ac39d4f8aa66a1df
+run_name: suave-calf-787
+run_uuid: d5b124d8e1524c21ac39d4f8aa66a1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772628423
+status: 3
+tags: []
+user_id: runner

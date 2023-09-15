@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2b1a4a7f9d4c47c7a9456d2afd2d69bf/artifacts
+end_time: 1694772635050
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2b1a4a7f9d4c47c7a9456d2afd2d69bf
+run_name: melodic-dove-793
+run_uuid: 2b1a4a7f9d4c47c7a9456d2afd2d69bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772633160
+status: 3
+tags: []
+user_id: runner

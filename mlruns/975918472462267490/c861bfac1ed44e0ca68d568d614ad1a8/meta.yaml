@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c861bfac1ed44e0ca68d568d614ad1a8/artifacts
+end_time: 1694772639711
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c861bfac1ed44e0ca68d568d614ad1a8
+run_name: respected-midge-691
+run_uuid: c861bfac1ed44e0ca68d568d614ad1a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772636198
+status: 3
+tags: []
+user_id: runner

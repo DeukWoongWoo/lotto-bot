@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0d9b13080daf499badde8c05b351be7f/artifacts
+end_time: 1694772636192
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0d9b13080daf499badde8c05b351be7f
+run_name: clean-trout-882
+run_uuid: 0d9b13080daf499badde8c05b351be7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694772635063
+status: 3
+tags: []
+user_id: runner
