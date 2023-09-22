@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0b57668ea4b94c748b6f3c737e5b166b/artifacts
+end_time: 1695377457237
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0b57668ea4b94c748b6f3c737e5b166b
+run_name: masked-panda-195
+run_uuid: 0b57668ea4b94c748b6f3c737e5b166b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695377456184
+status: 3
+tags: []
+user_id: runner

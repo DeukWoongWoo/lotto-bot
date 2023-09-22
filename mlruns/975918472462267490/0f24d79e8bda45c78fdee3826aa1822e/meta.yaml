@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0f24d79e8bda45c78fdee3826aa1822e/artifacts
+end_time: 1695377452408
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0f24d79e8bda45c78fdee3826aa1822e
+run_name: overjoyed-jay-331
+run_uuid: 0f24d79e8bda45c78fdee3826aa1822e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695377450678
+status: 3
+tags: []
+user_id: runner

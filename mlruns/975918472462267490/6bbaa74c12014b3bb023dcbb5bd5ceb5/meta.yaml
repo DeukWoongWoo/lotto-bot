@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6bbaa74c12014b3bb023dcbb5bd5ceb5/artifacts
+end_time: 1695377465053
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6bbaa74c12014b3bb023dcbb5bd5ceb5
+run_name: judicious-snail-281
+run_uuid: 6bbaa74c12014b3bb023dcbb5bd5ceb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695377463528
+status: 3
+tags: []
+user_id: runner

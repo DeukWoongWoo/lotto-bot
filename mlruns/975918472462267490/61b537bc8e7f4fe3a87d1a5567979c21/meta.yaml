@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/61b537bc8e7f4fe3a87d1a5567979c21/artifacts
+end_time: 1695377455072
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 61b537bc8e7f4fe3a87d1a5567979c21
+run_name: shivering-fish-990
+run_uuid: 61b537bc8e7f4fe3a87d1a5567979c21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695377453573
+status: 3
+tags: []
+user_id: runner
