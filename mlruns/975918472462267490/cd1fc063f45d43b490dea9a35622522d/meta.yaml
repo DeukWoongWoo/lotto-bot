@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cd1fc063f45d43b490dea9a35622522d/artifacts
+end_time: 1695982254515
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cd1fc063f45d43b490dea9a35622522d
+run_name: wistful-hound-914
+run_uuid: cd1fc063f45d43b490dea9a35622522d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982252874
+status: 3
+tags: []
+user_id: runner

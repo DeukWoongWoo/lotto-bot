@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/363aeaa7987348e5a3980cd315a00d6e/artifacts
+end_time: 1695982276155
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 363aeaa7987348e5a3980cd315a00d6e
+run_name: secretive-seal-22
+run_uuid: 363aeaa7987348e5a3980cd315a00d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982275095
+status: 3
+tags: []
+user_id: runner

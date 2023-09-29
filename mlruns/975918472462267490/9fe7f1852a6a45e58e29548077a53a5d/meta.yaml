@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9fe7f1852a6a45e58e29548077a53a5d/artifacts
+end_time: 1695982275078
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9fe7f1852a6a45e58e29548077a53a5d
+run_name: burly-grub-737
+run_uuid: 9fe7f1852a6a45e58e29548077a53a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982272759
+status: 3
+tags: []
+user_id: runner

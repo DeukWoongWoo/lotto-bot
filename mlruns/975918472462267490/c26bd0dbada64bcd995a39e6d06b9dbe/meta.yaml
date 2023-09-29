@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c26bd0dbada64bcd995a39e6d06b9dbe/artifacts
+end_time: 1695982279499
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c26bd0dbada64bcd995a39e6d06b9dbe
+run_name: victorious-ray-529
+run_uuid: c26bd0dbada64bcd995a39e6d06b9dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982276167
+status: 3
+tags: []
+user_id: runner

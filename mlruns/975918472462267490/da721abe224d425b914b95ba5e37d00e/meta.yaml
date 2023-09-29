@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/da721abe224d425b914b95ba5e37d00e/artifacts
+end_time: 1695982285014
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: da721abe224d425b914b95ba5e37d00e
+run_name: placid-dove-997
+run_uuid: da721abe224d425b914b95ba5e37d00e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982283340
+status: 3
+tags: []
+user_id: runner

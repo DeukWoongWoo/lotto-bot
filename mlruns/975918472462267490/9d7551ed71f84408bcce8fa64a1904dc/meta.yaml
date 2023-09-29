@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9d7551ed71f84408bcce8fa64a1904dc/artifacts
+end_time: 1695982259769
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9d7551ed71f84408bcce8fa64a1904dc
+run_name: nervous-gnat-763
+run_uuid: 9d7551ed71f84408bcce8fa64a1904dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982256683
+status: 3
+tags: []
+user_id: runner

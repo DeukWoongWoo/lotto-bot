@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/42c12bf693b349c7bab6c3d1bd12eaa2/artifacts
+end_time: 1695982267193
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 42c12bf693b349c7bab6c3d1bd12eaa2
+run_name: adventurous-jay-523
+run_uuid: 42c12bf693b349c7bab6c3d1bd12eaa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695982262637
+status: 3
+tags: []
+user_id: runner
