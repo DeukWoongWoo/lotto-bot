@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/62e12e205ea4439e8670fb90c40432c1/artifacts
+end_time: 1696587075519
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 62e12e205ea4439e8670fb90c40432c1
+run_name: able-fox-101
+run_uuid: 62e12e205ea4439e8670fb90c40432c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587073031
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bdc36cb0c47c4e758a649b81b652aaaa/artifacts
+end_time: 1696587078523
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bdc36cb0c47c4e758a649b81b652aaaa
+run_name: nebulous-lynx-673
+run_uuid: bdc36cb0c47c4e758a649b81b652aaaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587078096
+status: 3
+tags: []
+user_id: runner

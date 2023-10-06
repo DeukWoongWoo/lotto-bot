@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3a29c3d865c641a992a07365a493c9cf/artifacts
+end_time: 1696587087916
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3a29c3d865c641a992a07365a493c9cf
+run_name: bouncy-grouse-169
+run_uuid: 3a29c3d865c641a992a07365a493c9cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587086964
+status: 3
+tags: []
+user_id: runner

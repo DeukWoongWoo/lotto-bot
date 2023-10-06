@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bb4d1bed51a145dbaa0328ab9bbae759/artifacts
+end_time: 1696587073018
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bb4d1bed51a145dbaa0328ab9bbae759
+run_name: carefree-goose-269
+run_uuid: bb4d1bed51a145dbaa0328ab9bbae759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587072413
+status: 3
+tags: []
+user_id: runner

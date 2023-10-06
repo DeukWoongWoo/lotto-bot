@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5ec0e36a2c924d359ab89bd347d52f78/artifacts
+end_time: 1696587084166
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5ec0e36a2c924d359ab89bd347d52f78
+run_name: glamorous-hare-558
+run_uuid: 5ec0e36a2c924d359ab89bd347d52f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587082227
+status: 3
+tags: []
+user_id: runner

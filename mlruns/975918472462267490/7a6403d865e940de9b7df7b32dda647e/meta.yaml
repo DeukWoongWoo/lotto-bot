@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7a6403d865e940de9b7df7b32dda647e/artifacts
+end_time: 1696587076715
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7a6403d865e940de9b7df7b32dda647e
+run_name: delicate-crane-310
+run_uuid: 7a6403d865e940de9b7df7b32dda647e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587075532
+status: 3
+tags: []
+user_id: runner

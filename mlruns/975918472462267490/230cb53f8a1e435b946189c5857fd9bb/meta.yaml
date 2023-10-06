@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/230cb53f8a1e435b946189c5857fd9bb/artifacts
+end_time: 1696587085885
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 230cb53f8a1e435b946189c5857fd9bb
+run_name: caring-duck-712
+run_uuid: 230cb53f8a1e435b946189c5857fd9bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587084179
+status: 3
+tags: []
+user_id: runner

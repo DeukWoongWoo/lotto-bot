@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4bac0a3fd4864c55bcc9e1609fa6d264/artifacts
+end_time: 1696587093125
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4bac0a3fd4864c55bcc9e1609fa6d264
+run_name: bright-whale-389
+run_uuid: 4bac0a3fd4864c55bcc9e1609fa6d264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696587089448
+status: 3
+tags: []
+user_id: runner
