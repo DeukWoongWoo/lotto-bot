@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e316f99451714f07bd5c6898d3c56bd9/artifacts
+end_time: 1697191860532
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e316f99451714f07bd5c6898d3c56bd9
+run_name: useful-colt-102
+run_uuid: e316f99451714f07bd5c6898d3c56bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191858069
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a9b86197c29648adb42e9240065824c5/artifacts
+end_time: 1697191867849
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a9b86197c29648adb42e9240065824c5
+run_name: kindly-deer-747
+run_uuid: a9b86197c29648adb42e9240065824c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191867052
+status: 3
+tags: []
+user_id: runner

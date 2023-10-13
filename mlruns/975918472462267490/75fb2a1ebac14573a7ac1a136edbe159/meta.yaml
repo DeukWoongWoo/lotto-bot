@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/75fb2a1ebac14573a7ac1a136edbe159/artifacts
+end_time: 1697191874305
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 75fb2a1ebac14573a7ac1a136edbe159
+run_name: righteous-goat-293
+run_uuid: 75fb2a1ebac14573a7ac1a136edbe159
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191873128
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8671e9b4a153426296fe9cf1f2983851/artifacts
+end_time: 1697191867040
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8671e9b4a153426296fe9cf1f2983851
+run_name: classy-fox-984
+run_uuid: 8671e9b4a153426296fe9cf1f2983851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191866190
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/423cfe491b83429bb82b1d1f011ba1da/artifacts
+end_time: 1697191877590
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 423cfe491b83429bb82b1d1f011ba1da
+run_name: bright-hawk-378
+run_uuid: 423cfe491b83429bb82b1d1f011ba1da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191876510
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e3e1bb78cd2544f9b15639df382d4989/artifacts
+end_time: 1697191876498
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e3e1bb78cd2544f9b15639df382d4989
+run_name: clean-pig-253
+run_uuid: e3e1bb78cd2544f9b15639df382d4989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191875754
+status: 3
+tags: []
+user_id: runner

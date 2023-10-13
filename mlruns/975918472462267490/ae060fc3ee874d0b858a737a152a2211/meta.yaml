@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ae060fc3ee874d0b858a737a152a2211/artifacts
+end_time: 1697191864321
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ae060fc3ee874d0b858a737a152a2211
+run_name: bedecked-goat-806
+run_uuid: ae060fc3ee874d0b858a737a152a2211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191862469
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d8c90ce3daa34e1d890be4bd8020504b/artifacts
+end_time: 1697191862457
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d8c90ce3daa34e1d890be4bd8020504b
+run_name: agreeable-deer-25
+run_uuid: d8c90ce3daa34e1d890be4bd8020504b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697191860546
+status: 3
+tags: []
+user_id: runner
