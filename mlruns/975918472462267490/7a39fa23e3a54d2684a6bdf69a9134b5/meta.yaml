@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7a39fa23e3a54d2684a6bdf69a9134b5/artifacts
+end_time: 1697796696001
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7a39fa23e3a54d2684a6bdf69a9134b5
+run_name: secretive-ant-159
+run_uuid: 7a39fa23e3a54d2684a6bdf69a9134b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796695086
+status: 3
+tags: []
+user_id: runner

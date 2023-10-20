@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/14213dbb341d4652abcf841a8377b8b9/artifacts
+end_time: 1697796677327
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 14213dbb341d4652abcf841a8377b8b9
+run_name: traveling-grouse-60
+run_uuid: 14213dbb341d4652abcf841a8377b8b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796676723
+status: 3
+tags: []
+user_id: runner

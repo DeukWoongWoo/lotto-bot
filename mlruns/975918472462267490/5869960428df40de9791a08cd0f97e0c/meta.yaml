@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5869960428df40de9791a08cd0f97e0c/artifacts
+end_time: 1697796688856
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5869960428df40de9791a08cd0f97e0c
+run_name: traveling-perch-686
+run_uuid: 5869960428df40de9791a08cd0f97e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796687781
+status: 3
+tags: []
+user_id: runner

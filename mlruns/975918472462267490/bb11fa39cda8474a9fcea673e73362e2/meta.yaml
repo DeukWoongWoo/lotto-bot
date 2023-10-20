@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bb11fa39cda8474a9fcea673e73362e2/artifacts
+end_time: 1697796678304
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bb11fa39cda8474a9fcea673e73362e2
+run_name: skittish-mouse-388
+run_uuid: bb11fa39cda8474a9fcea673e73362e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796677342
+status: 3
+tags: []
+user_id: runner

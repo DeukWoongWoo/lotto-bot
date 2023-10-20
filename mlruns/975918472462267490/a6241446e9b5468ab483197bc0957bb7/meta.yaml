@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a6241446e9b5468ab483197bc0957bb7/artifacts
+end_time: 1697796681804
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a6241446e9b5468ab483197bc0957bb7
+run_name: resilient-doe-962
+run_uuid: a6241446e9b5468ab483197bc0957bb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796679597
+status: 3
+tags: []
+user_id: runner

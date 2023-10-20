@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e05e4a8816d642f2950808407c43a14b/artifacts
+end_time: 1697796692957
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e05e4a8816d642f2950808407c43a14b
+run_name: crawling-penguin-10
+run_uuid: e05e4a8816d642f2950808407c43a14b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697796691566
+status: 3
+tags: []
+user_id: runner
