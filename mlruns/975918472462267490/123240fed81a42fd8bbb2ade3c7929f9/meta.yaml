@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/123240fed81a42fd8bbb2ade3c7929f9/artifacts
+end_time: 1698401573063
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 123240fed81a42fd8bbb2ade3c7929f9
+run_name: skittish-quail-239
+run_uuid: 123240fed81a42fd8bbb2ade3c7929f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401571418
+status: 3
+tags: []
+user_id: runner

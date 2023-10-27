@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/911927b185ab4d09a0b316be6f62b003/artifacts
+end_time: 1698401575131
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 911927b185ab4d09a0b316be6f62b003
+run_name: able-auk-294
+run_uuid: 911927b185ab4d09a0b316be6f62b003
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401574630
+status: 3
+tags: []
+user_id: runner

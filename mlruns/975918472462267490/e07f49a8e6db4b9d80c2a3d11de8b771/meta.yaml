@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e07f49a8e6db4b9d80c2a3d11de8b771/artifacts
+end_time: 1698401568988
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e07f49a8e6db4b9d80c2a3d11de8b771
+run_name: sincere-mare-143
+run_uuid: e07f49a8e6db4b9d80c2a3d11de8b771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401567769
+status: 3
+tags: []
+user_id: runner

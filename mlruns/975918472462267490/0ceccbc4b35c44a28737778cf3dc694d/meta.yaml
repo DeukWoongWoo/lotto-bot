@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0ceccbc4b35c44a28737778cf3dc694d/artifacts
+end_time: 1698401578765
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0ceccbc4b35c44a28737778cf3dc694d
+run_name: awesome-shrimp-511
+run_uuid: 0ceccbc4b35c44a28737778cf3dc694d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401575136
+status: 3
+tags: []
+user_id: runner

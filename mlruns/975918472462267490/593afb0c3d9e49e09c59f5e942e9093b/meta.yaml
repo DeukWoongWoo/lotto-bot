@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/593afb0c3d9e49e09c59f5e942e9093b/artifacts
+end_time: 1698401562883
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 593afb0c3d9e49e09c59f5e942e9093b
+run_name: dazzling-hen-671
+run_uuid: 593afb0c3d9e49e09c59f5e942e9093b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401562446
+status: 3
+tags: []
+user_id: runner

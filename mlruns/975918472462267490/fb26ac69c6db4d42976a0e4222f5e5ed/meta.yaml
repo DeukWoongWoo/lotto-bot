@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fb26ac69c6db4d42976a0e4222f5e5ed/artifacts
+end_time: 1698401564754
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fb26ac69c6db4d42976a0e4222f5e5ed
+run_name: dazzling-perch-818
+run_uuid: fb26ac69c6db4d42976a0e4222f5e5ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698401564378
+status: 3
+tags: []
+user_id: runner
