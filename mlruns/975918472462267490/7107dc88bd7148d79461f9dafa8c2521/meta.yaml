@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7107dc88bd7148d79461f9dafa8c2521/artifacts
+end_time: 1699006272614
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7107dc88bd7148d79461f9dafa8c2521
+run_name: upset-lynx-305
+run_uuid: 7107dc88bd7148d79461f9dafa8c2521
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006271099
+status: 3
+tags: []
+user_id: runner

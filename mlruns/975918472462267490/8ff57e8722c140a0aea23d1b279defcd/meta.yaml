@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8ff57e8722c140a0aea23d1b279defcd/artifacts
+end_time: 1699006269068
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8ff57e8722c140a0aea23d1b279defcd
+run_name: merciful-mole-309
+run_uuid: 8ff57e8722c140a0aea23d1b279defcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006267853
+status: 3
+tags: []
+user_id: runner

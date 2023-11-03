@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2ab9b1442aaf427a9b2cdc4d4e0d8072/artifacts
+end_time: 1699006278409
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2ab9b1442aaf427a9b2cdc4d4e0d8072
+run_name: intrigued-frog-975
+run_uuid: 2ab9b1442aaf427a9b2cdc4d4e0d8072
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006276455
+status: 3
+tags: []
+user_id: runner

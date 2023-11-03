@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c210595b42f049b89f135473f6153b4c/artifacts
+end_time: 1699006280447
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c210595b42f049b89f135473f6153b4c
+run_name: upbeat-mink-410
+run_uuid: c210595b42f049b89f135473f6153b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006278422
+status: 3
+tags: []
+user_id: runner

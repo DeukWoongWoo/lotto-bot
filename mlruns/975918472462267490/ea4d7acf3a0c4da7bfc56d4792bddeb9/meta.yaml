@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ea4d7acf3a0c4da7bfc56d4792bddeb9/artifacts
+end_time: 1699006290953
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ea4d7acf3a0c4da7bfc56d4792bddeb9
+run_name: mysterious-stork-182
+run_uuid: ea4d7acf3a0c4da7bfc56d4792bddeb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006289693
+status: 3
+tags: []
+user_id: runner

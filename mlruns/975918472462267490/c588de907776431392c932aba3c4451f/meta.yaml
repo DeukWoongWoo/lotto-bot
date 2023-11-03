@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c588de907776431392c932aba3c4451f/artifacts
+end_time: 1699006271085
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c588de907776431392c932aba3c4451f
+run_name: honorable-stork-569
+run_uuid: c588de907776431392c932aba3c4451f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006269080
+status: 3
+tags: []
+user_id: runner

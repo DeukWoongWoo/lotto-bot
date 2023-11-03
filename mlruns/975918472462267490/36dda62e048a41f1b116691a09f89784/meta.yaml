@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/36dda62e048a41f1b116691a09f89784/artifacts
+end_time: 1699006267840
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 36dda62e048a41f1b116691a09f89784
+run_name: serious-ape-3
+run_uuid: 36dda62e048a41f1b116691a09f89784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006266689
+status: 3
+tags: []
+user_id: runner

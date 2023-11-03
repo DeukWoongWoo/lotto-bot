@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b5428e4f07e748a6ab97cedffd346d2b/artifacts
+end_time: 1699006276441
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b5428e4f07e748a6ab97cedffd346d2b
+run_name: bustling-worm-834
+run_uuid: b5428e4f07e748a6ab97cedffd346d2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006275539
+status: 3
+tags: []
+user_id: runner

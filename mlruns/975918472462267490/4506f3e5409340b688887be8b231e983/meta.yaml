@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4506f3e5409340b688887be8b231e983/artifacts
+end_time: 1699006275522
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4506f3e5409340b688887be8b231e983
+run_name: glamorous-conch-964
+run_uuid: 4506f3e5409340b688887be8b231e983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699006272628
+status: 3
+tags: []
+user_id: runner
