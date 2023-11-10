@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/34aff55e4efb403fa81afbf62350df96/artifacts
+end_time: 1699611059072
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 34aff55e4efb403fa81afbf62350df96
+run_name: unruly-wolf-605
+run_uuid: 34aff55e4efb403fa81afbf62350df96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611056766
+status: 3
+tags: []
+user_id: runner

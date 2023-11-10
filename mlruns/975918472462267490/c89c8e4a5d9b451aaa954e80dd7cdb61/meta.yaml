@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c89c8e4a5d9b451aaa954e80dd7cdb61/artifacts
+end_time: 1699611062010
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c89c8e4a5d9b451aaa954e80dd7cdb61
+run_name: stylish-seal-978
+run_uuid: c89c8e4a5d9b451aaa954e80dd7cdb61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611061149
+status: 3
+tags: []
+user_id: runner

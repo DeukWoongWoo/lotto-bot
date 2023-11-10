@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ecba240e83114279b679dc3a2d73930b/artifacts
+end_time: 1699611069134
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ecba240e83114279b679dc3a2d73930b
+run_name: efficient-snail-336
+run_uuid: ecba240e83114279b679dc3a2d73930b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611067432
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/416f55ac736942d2a80f6d50b12948db/artifacts
+end_time: 1699611067419
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 416f55ac736942d2a80f6d50b12948db
+run_name: orderly-snail-267
+run_uuid: 416f55ac736942d2a80f6d50b12948db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611065625
+status: 3
+tags: []
+user_id: runner

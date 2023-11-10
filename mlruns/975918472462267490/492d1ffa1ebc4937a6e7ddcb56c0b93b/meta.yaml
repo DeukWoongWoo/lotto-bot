@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/492d1ffa1ebc4937a6e7ddcb56c0b93b/artifacts
+end_time: 1699611071190
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 492d1ffa1ebc4937a6e7ddcb56c0b93b
+run_name: skittish-sponge-489
+run_uuid: 492d1ffa1ebc4937a6e7ddcb56c0b93b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611070164
+status: 3
+tags: []
+user_id: runner

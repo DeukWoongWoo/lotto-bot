@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2ac91838774f4abc89a6fc482112719f/artifacts
+end_time: 1699611071816
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2ac91838774f4abc89a6fc482112719f
+run_name: vaunted-boar-664
+run_uuid: 2ac91838774f4abc89a6fc482112719f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611071204
+status: 3
+tags: []
+user_id: runner

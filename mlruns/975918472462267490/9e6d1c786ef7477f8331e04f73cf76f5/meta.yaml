@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9e6d1c786ef7477f8331e04f73cf76f5/artifacts
+end_time: 1699611075486
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9e6d1c786ef7477f8331e04f73cf76f5
+run_name: flawless-tern-950
+run_uuid: 9e6d1c786ef7477f8331e04f73cf76f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699611074565
+status: 3
+tags: []
+user_id: runner
