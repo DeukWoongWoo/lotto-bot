@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/82b6b5ccb28b46299bf06fd1410f4f15/artifacts
+end_time: 1700215813358
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 82b6b5ccb28b46299bf06fd1410f4f15
+run_name: angry-hen-786
+run_uuid: 82b6b5ccb28b46299bf06fd1410f4f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215812647
+status: 3
+tags: []
+user_id: runner

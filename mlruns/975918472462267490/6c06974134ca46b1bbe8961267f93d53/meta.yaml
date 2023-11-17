@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6c06974134ca46b1bbe8961267f93d53/artifacts
+end_time: 1700215821896
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6c06974134ca46b1bbe8961267f93d53
+run_name: debonair-ant-110
+run_uuid: 6c06974134ca46b1bbe8961267f93d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215819086
+status: 3
+tags: []
+user_id: runner

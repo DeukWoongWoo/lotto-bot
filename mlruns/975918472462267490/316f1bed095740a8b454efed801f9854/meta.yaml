@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/316f1bed095740a8b454efed801f9854/artifacts
+end_time: 1700215812637
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 316f1bed095740a8b454efed801f9854
+run_name: upbeat-squid-332
+run_uuid: 316f1bed095740a8b454efed801f9854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215810866
+status: 3
+tags: []
+user_id: runner

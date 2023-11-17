@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ad151bf901b846c4a3d5095f17ac77c5/artifacts
+end_time: 1700215806909
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ad151bf901b846c4a3d5095f17ac77c5
+run_name: thundering-smelt-798
+run_uuid: ad151bf901b846c4a3d5095f17ac77c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215806281
+status: 3
+tags: []
+user_id: runner

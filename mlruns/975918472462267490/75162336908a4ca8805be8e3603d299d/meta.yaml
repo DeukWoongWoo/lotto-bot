@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/75162336908a4ca8805be8e3603d299d/artifacts
+end_time: 1700215818559
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 75162336908a4ca8805be8e3603d299d
+run_name: polite-toad-210
+run_uuid: 75162336908a4ca8805be8e3603d299d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700215817567
+status: 3
+tags: []
+user_id: runner
