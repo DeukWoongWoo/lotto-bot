@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/691f8dea356347108204e506b648c27d/artifacts
+end_time: 1700820637300
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 691f8dea356347108204e506b648c27d
+run_name: abundant-fish-810
+run_uuid: 691f8dea356347108204e506b648c27d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700820636737
+status: 3
+tags: []
+user_id: runner

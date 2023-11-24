@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3d73e536e8b14efa9ec0d25f600f0fcf/artifacts
+end_time: 1700820624831
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3d73e536e8b14efa9ec0d25f600f0fcf
+run_name: rare-hare-276
+run_uuid: 3d73e536e8b14efa9ec0d25f600f0fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700820624218
+status: 3
+tags: []
+user_id: runner
