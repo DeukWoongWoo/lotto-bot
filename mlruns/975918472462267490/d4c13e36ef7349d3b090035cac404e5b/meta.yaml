@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d4c13e36ef7349d3b090035cac404e5b/artifacts
+end_time: 1701425471944
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d4c13e36ef7349d3b090035cac404e5b
+run_name: languid-crane-467
+run_uuid: d4c13e36ef7349d3b090035cac404e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425470892
+status: 3
+tags: []
+user_id: runner

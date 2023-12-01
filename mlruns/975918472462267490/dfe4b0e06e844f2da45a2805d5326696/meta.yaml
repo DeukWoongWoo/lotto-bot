@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dfe4b0e06e844f2da45a2805d5326696/artifacts
+end_time: 1701425490060
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dfe4b0e06e844f2da45a2805d5326696
+run_name: entertaining-cat-908
+run_uuid: dfe4b0e06e844f2da45a2805d5326696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425486702
+status: 3
+tags: []
+user_id: runner

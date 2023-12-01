@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/002652938e0745438d2921bbc2089e44/artifacts
+end_time: 1701425491852
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 002652938e0745438d2921bbc2089e44
+run_name: nosy-goose-221
+run_uuid: 002652938e0745438d2921bbc2089e44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425490074
+status: 3
+tags: []
+user_id: runner

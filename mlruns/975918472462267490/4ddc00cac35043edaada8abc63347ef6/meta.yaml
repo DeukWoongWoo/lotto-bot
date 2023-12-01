@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4ddc00cac35043edaada8abc63347ef6/artifacts
+end_time: 1701425470878
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4ddc00cac35043edaada8abc63347ef6
+run_name: sedate-shark-962
+run_uuid: 4ddc00cac35043edaada8abc63347ef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425469473
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/604f8b781330489fb4b50c4ca3ab5f32/artifacts
+end_time: 1701425472953
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 604f8b781330489fb4b50c4ca3ab5f32
+run_name: wise-wasp-900
+run_uuid: 604f8b781330489fb4b50c4ca3ab5f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425471958
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9f96c859ed2e410abbdcb3a054f9130f/artifacts
+end_time: 1701425476139
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9f96c859ed2e410abbdcb3a054f9130f
+run_name: unruly-croc-364
+run_uuid: 9f96c859ed2e410abbdcb3a054f9130f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701425474903
+status: 3
+tags: []
+user_id: runner
