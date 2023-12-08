@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ed18cba701e7480db9ad6dc367b1a446/artifacts
+end_time: 1702030280840
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ed18cba701e7480db9ad6dc367b1a446
+run_name: polite-grub-30
+run_uuid: ed18cba701e7480db9ad6dc367b1a446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030280232
+status: 3
+tags: []
+user_id: runner

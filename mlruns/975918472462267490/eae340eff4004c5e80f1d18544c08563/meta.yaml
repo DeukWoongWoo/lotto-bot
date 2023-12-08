@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eae340eff4004c5e80f1d18544c08563/artifacts
+end_time: 1702030263510
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eae340eff4004c5e80f1d18544c08563
+run_name: valuable-penguin-338
+run_uuid: eae340eff4004c5e80f1d18544c08563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030262321
+status: 3
+tags: []
+user_id: runner

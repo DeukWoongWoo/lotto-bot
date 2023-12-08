@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3d5dcf628f4d408f97fbaabdad74e996/artifacts
+end_time: 1702030279325
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3d5dcf628f4d408f97fbaabdad74e996
+run_name: puzzled-dove-530
+run_uuid: 3d5dcf628f4d408f97fbaabdad74e996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702030278775
+status: 3
+tags: []
+user_id: runner
