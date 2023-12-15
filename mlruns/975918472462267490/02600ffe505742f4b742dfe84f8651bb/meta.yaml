@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/02600ffe505742f4b742dfe84f8651bb/artifacts
+end_time: 1702635041492
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 02600ffe505742f4b742dfe84f8651bb
+run_name: chill-penguin-230
+run_uuid: 02600ffe505742f4b742dfe84f8651bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635040938
+status: 3
+tags: []
+user_id: runner

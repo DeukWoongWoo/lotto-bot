@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/96f3139fb598421ea8f845f301fdc9e0/artifacts
+end_time: 1702635037973
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 96f3139fb598421ea8f845f301fdc9e0
+run_name: beautiful-sow-94
+run_uuid: 96f3139fb598421ea8f845f301fdc9e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635036812
+status: 3
+tags: []
+user_id: runner

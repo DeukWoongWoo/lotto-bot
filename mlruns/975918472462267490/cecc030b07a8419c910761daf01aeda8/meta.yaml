@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cecc030b07a8419c910761daf01aeda8/artifacts
+end_time: 1702635042263
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cecc030b07a8419c910761daf01aeda8
+run_name: loud-chimp-388
+run_uuid: cecc030b07a8419c910761daf01aeda8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635041502
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c5223a2aada047d9ab93f323c99d1cb8/artifacts
+end_time: 1702635034645
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c5223a2aada047d9ab93f323c99d1cb8
+run_name: secretive-shrew-77
+run_uuid: c5223a2aada047d9ab93f323c99d1cb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635033312
+status: 3
+tags: []
+user_id: runner

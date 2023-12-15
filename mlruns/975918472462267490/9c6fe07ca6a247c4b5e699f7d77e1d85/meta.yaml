@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9c6fe07ca6a247c4b5e699f7d77e1d85/artifacts
+end_time: 1702635035941
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9c6fe07ca6a247c4b5e699f7d77e1d85
+run_name: sneaky-crow-0
+run_uuid: 9c6fe07ca6a247c4b5e699f7d77e1d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702635034656
+status: 3
+tags: []
+user_id: runner
