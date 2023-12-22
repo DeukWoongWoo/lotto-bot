@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a93f7af47f2e459facfa91f8be729e68/artifacts
+end_time: 1703239814439
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a93f7af47f2e459facfa91f8be729e68
+run_name: clean-tern-807
+run_uuid: a93f7af47f2e459facfa91f8be729e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239812518
+status: 3
+tags: []
+user_id: runner

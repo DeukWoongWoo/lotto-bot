@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/01db68b473e34c11ae4fef8e1f3cfc55/artifacts
+end_time: 1703239827469
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 01db68b473e34c11ae4fef8e1f3cfc55
+run_name: chill-crab-359
+run_uuid: 01db68b473e34c11ae4fef8e1f3cfc55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239826622
+status: 3
+tags: []
+user_id: runner

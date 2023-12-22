@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cc6e0ce30bb34b28b899dc264696790b/artifacts
+end_time: 1703239826608
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cc6e0ce30bb34b28b899dc264696790b
+run_name: fun-finch-906
+run_uuid: cc6e0ce30bb34b28b899dc264696790b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239824902
+status: 3
+tags: []
+user_id: runner

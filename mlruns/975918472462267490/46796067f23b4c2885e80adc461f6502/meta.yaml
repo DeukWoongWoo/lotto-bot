@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/46796067f23b4c2885e80adc461f6502/artifacts
+end_time: 1703239823294
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 46796067f23b4c2885e80adc461f6502
+run_name: abrasive-snail-446
+run_uuid: 46796067f23b4c2885e80adc461f6502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239822216
+status: 3
+tags: []
+user_id: runner

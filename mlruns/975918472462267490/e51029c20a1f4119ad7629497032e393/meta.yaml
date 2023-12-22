@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e51029c20a1f4119ad7629497032e393/artifacts
+end_time: 1703239829263
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e51029c20a1f4119ad7629497032e393
+run_name: rumbling-panda-282
+run_uuid: e51029c20a1f4119ad7629497032e393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703239828444
+status: 3
+tags: []
+user_id: runner
