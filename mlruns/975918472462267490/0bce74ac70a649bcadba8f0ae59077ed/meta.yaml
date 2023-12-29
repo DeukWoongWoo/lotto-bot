@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0bce74ac70a649bcadba8f0ae59077ed/artifacts
+end_time: 1703844652634
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0bce74ac70a649bcadba8f0ae59077ed
+run_name: wise-penguin-317
+run_uuid: 0bce74ac70a649bcadba8f0ae59077ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844651962
+status: 3
+tags: []
+user_id: runner

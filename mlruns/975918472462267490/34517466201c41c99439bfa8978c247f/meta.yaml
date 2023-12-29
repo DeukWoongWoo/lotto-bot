@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/34517466201c41c99439bfa8978c247f/artifacts
+end_time: 1703844663074
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 34517466201c41c99439bfa8978c247f
+run_name: sedate-kite-553
+run_uuid: 34517466201c41c99439bfa8978c247f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703844659756
+status: 3
+tags: []
+user_id: runner
