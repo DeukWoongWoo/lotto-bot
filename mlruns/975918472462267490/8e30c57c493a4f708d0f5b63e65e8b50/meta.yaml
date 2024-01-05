@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8e30c57c493a4f708d0f5b63e65e8b50/artifacts
+end_time: 1704449404823
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8e30c57c493a4f708d0f5b63e65e8b50
+run_name: blushing-rat-459
+run_uuid: 8e30c57c493a4f708d0f5b63e65e8b50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449404017
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a39b579ccfbc4b39b137eb1dde1cfdff/artifacts
+end_time: 1704449418456
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a39b579ccfbc4b39b137eb1dde1cfdff
+run_name: fearless-squid-842
+run_uuid: a39b579ccfbc4b39b137eb1dde1cfdff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449414483
+status: 3
+tags: []
+user_id: runner

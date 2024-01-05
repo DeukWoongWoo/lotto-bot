@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9c33ad607c694f3f89cccb691860763c/artifacts
+end_time: 1704449402143
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9c33ad607c694f3f89cccb691860763c
+run_name: polite-dog-286
+run_uuid: 9c33ad607c694f3f89cccb691860763c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449400742
+status: 3
+tags: []
+user_id: runner

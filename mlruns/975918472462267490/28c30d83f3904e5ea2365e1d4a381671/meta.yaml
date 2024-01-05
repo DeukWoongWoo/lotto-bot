@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/28c30d83f3904e5ea2365e1d4a381671/artifacts
+end_time: 1704449414477
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 28c30d83f3904e5ea2365e1d4a381671
+run_name: fun-crow-345
+run_uuid: 28c30d83f3904e5ea2365e1d4a381671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449413121
+status: 3
+tags: []
+user_id: runner

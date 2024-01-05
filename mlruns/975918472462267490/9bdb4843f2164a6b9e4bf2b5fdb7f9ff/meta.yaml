@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9bdb4843f2164a6b9e4bf2b5fdb7f9ff/artifacts
+end_time: 1704449398601
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9bdb4843f2164a6b9e4bf2b5fdb7f9ff
+run_name: honorable-smelt-975
+run_uuid: 9bdb4843f2164a6b9e4bf2b5fdb7f9ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449397564
+status: 3
+tags: []
+user_id: runner

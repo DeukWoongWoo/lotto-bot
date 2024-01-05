@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c0b1255db3a84af68eeaa7f6f94a3a94/artifacts
+end_time: 1704449409994
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c0b1255db3a84af68eeaa7f6f94a3a94
+run_name: vaunted-trout-599
+run_uuid: c0b1255db3a84af68eeaa7f6f94a3a94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449407356
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6d05002668fd44aaa12142cf35fe31bc/artifacts
+end_time: 1704449400731
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6d05002668fd44aaa12142cf35fe31bc
+run_name: adaptable-finch-641
+run_uuid: 6d05002668fd44aaa12142cf35fe31bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449400024
+status: 3
+tags: []
+user_id: runner

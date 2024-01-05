@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a0ebebd03a934f52935e90b7336790df/artifacts
+end_time: 1704449403138
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a0ebebd03a934f52935e90b7336790df
+run_name: efficient-midge-569
+run_uuid: a0ebebd03a934f52935e90b7336790df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449402155
+status: 3
+tags: []
+user_id: runner

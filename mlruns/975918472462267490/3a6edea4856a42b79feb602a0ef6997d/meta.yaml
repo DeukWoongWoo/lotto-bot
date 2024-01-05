@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3a6edea4856a42b79feb602a0ef6997d/artifacts
+end_time: 1704449412596
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3a6edea4856a42b79feb602a0ef6997d
+run_name: charming-ant-56
+run_uuid: 3a6edea4856a42b79feb602a0ef6997d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449411052
+status: 3
+tags: []
+user_id: runner

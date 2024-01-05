@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/56b81c95b8ab492fa4f8fcb3e52d21e5/artifacts
+end_time: 1704449413107
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 56b81c95b8ab492fa4f8fcb3e52d21e5
+run_name: able-boar-626
+run_uuid: 56b81c95b8ab492fa4f8fcb3e52d21e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704449412607
+status: 3
+tags: []
+user_id: runner
