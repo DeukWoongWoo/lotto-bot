@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/77075eea30f741d88de4d0f508a7dc84/artifacts
+end_time: 1705054254644
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 77075eea30f741d88de4d0f508a7dc84
+run_name: auspicious-gnu-0
+run_uuid: 77075eea30f741d88de4d0f508a7dc84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054253737
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/550bdf997ec347539702c0f40cbaa55e/artifacts
+end_time: 1705054258945
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 550bdf997ec347539702c0f40cbaa55e
+run_name: bemused-cub-450
+run_uuid: 550bdf997ec347539702c0f40cbaa55e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054258041
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2d38eb59e9cd4d49932db892acf7eb83/artifacts
+end_time: 1705054274728
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2d38eb59e9cd4d49932db892acf7eb83
+run_name: serious-squid-525
+run_uuid: 2d38eb59e9cd4d49932db892acf7eb83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054273523
+status: 3
+tags: []
+user_id: runner

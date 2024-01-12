@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/506f9808cffd42399303a60129ba038d/artifacts
+end_time: 1705054258027
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 506f9808cffd42399303a60129ba038d
+run_name: polite-asp-489
+run_uuid: 506f9808cffd42399303a60129ba038d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054255964
+status: 3
+tags: []
+user_id: runner

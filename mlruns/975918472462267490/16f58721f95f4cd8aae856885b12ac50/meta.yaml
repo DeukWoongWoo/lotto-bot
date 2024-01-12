@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/16f58721f95f4cd8aae856885b12ac50/artifacts
+end_time: 1705054272792
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 16f58721f95f4cd8aae856885b12ac50
+run_name: luminous-seal-284
+run_uuid: 16f58721f95f4cd8aae856885b12ac50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054271297
+status: 3
+tags: []
+user_id: runner

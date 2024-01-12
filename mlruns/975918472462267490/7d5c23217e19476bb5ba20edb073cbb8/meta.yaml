@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7d5c23217e19476bb5ba20edb073cbb8/artifacts
+end_time: 1705054277831
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7d5c23217e19476bb5ba20edb073cbb8
+run_name: able-gull-609
+run_uuid: 7d5c23217e19476bb5ba20edb073cbb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054274734
+status: 3
+tags: []
+user_id: runner

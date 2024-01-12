@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bfba8aec09e54fcb8462beef1befb33a/artifacts
+end_time: 1705054273508
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bfba8aec09e54fcb8462beef1befb33a
+run_name: chill-whale-826
+run_uuid: bfba8aec09e54fcb8462beef1befb33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705054272810
+status: 3
+tags: []
+user_id: runner
