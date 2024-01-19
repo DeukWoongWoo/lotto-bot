@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9eb3ab9327944b84b53c9feafd9ef2d5/artifacts
+end_time: 1705659047028
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9eb3ab9327944b84b53c9feafd9ef2d5
+run_name: serious-bass-522
+run_uuid: 9eb3ab9327944b84b53c9feafd9ef2d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659045717
+status: 3
+tags: []
+user_id: runner

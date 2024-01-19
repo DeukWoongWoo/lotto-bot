@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/570ed4d6af6346f59bc5f2035843a93e/artifacts
+end_time: 1705659048544
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 570ed4d6af6346f59bc5f2035843a93e
+run_name: bedecked-mule-818
+run_uuid: 570ed4d6af6346f59bc5f2035843a93e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659047821
+status: 3
+tags: []
+user_id: runner

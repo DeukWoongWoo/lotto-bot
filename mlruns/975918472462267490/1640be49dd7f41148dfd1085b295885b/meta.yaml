@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1640be49dd7f41148dfd1085b295885b/artifacts
+end_time: 1705659045044
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1640be49dd7f41148dfd1085b295885b
+run_name: mysterious-crab-499
+run_uuid: 1640be49dd7f41148dfd1085b295885b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659044062
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5ca2445f31e145d0bf30209a51409c0c/artifacts
+end_time: 1705659054132
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5ca2445f31e145d0bf30209a51409c0c
+run_name: gregarious-frog-374
+run_uuid: 5ca2445f31e145d0bf30209a51409c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705659053236
+status: 3
+tags: []
+user_id: runner
