@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1f0086b3c4dc425ab3e5338319950866/artifacts
+end_time: 1706263831136
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1f0086b3c4dc425ab3e5338319950866
+run_name: redolent-gull-95
+run_uuid: 1f0086b3c4dc425ab3e5338319950866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263829761
+status: 3
+tags: []
+user_id: runner

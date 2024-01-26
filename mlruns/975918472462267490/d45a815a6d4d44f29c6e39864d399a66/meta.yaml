@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d45a815a6d4d44f29c6e39864d399a66/artifacts
+end_time: 1706263842053
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d45a815a6d4d44f29c6e39864d399a66
+run_name: adorable-toad-837
+run_uuid: d45a815a6d4d44f29c6e39864d399a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263840355
+status: 3
+tags: []
+user_id: runner

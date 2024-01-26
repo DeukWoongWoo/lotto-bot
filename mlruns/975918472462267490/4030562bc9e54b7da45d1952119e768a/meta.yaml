@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4030562bc9e54b7da45d1952119e768a/artifacts
+end_time: 1706263836937
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4030562bc9e54b7da45d1952119e768a
+run_name: orderly-ox-982
+run_uuid: 4030562bc9e54b7da45d1952119e768a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263836185
+status: 3
+tags: []
+user_id: runner

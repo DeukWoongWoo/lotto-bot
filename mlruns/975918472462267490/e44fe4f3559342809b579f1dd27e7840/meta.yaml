@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e44fe4f3559342809b579f1dd27e7840/artifacts
+end_time: 1706263834450
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e44fe4f3559342809b579f1dd27e7840
+run_name: worried-sow-906
+run_uuid: e44fe4f3559342809b579f1dd27e7840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706263833367
+status: 3
+tags: []
+user_id: runner
