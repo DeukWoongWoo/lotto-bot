@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c40d3eb6625a4291a5d0a15977849c7c/artifacts
+end_time: 1706868685727
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c40d3eb6625a4291a5d0a15977849c7c
+run_name: illustrious-fly-551
+run_uuid: c40d3eb6625a4291a5d0a15977849c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868683607
+status: 3
+tags: []
+user_id: runner

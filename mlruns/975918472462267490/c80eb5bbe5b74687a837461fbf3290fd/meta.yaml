@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c80eb5bbe5b74687a837461fbf3290fd/artifacts
+end_time: 1706868680396
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c80eb5bbe5b74687a837461fbf3290fd
+run_name: upset-jay-46
+run_uuid: c80eb5bbe5b74687a837461fbf3290fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868679530
+status: 3
+tags: []
+user_id: runner

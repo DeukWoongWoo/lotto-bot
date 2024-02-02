@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/95ff0ae118674aa192b14734ad49c6ad/artifacts
+end_time: 1706868671280
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 95ff0ae118674aa192b14734ad49c6ad
+run_name: shivering-toad-102
+run_uuid: 95ff0ae118674aa192b14734ad49c6ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868670476
+status: 3
+tags: []
+user_id: runner

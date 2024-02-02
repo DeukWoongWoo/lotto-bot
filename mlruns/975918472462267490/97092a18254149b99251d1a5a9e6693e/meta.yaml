@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/97092a18254149b99251d1a5a9e6693e/artifacts
+end_time: 1706868677527
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 97092a18254149b99251d1a5a9e6693e
+run_name: mercurial-boar-279
+run_uuid: 97092a18254149b99251d1a5a9e6693e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868676199
+status: 3
+tags: []
+user_id: runner

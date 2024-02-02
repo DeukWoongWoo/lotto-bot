@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/834633a8a9644a2899075d881f2587ed/artifacts
+end_time: 1706868683593
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 834633a8a9644a2899075d881f2587ed
+run_name: auspicious-bee-105
+run_uuid: 834633a8a9644a2899075d881f2587ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868682465
+status: 3
+tags: []
+user_id: runner

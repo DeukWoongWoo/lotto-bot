@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/198397d29bb54fdfbedc636d9dd087af/artifacts
+end_time: 1706868673611
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 198397d29bb54fdfbedc636d9dd087af
+run_name: amazing-crow-1000
+run_uuid: 198397d29bb54fdfbedc636d9dd087af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706868672719
+status: 3
+tags: []
+user_id: runner
