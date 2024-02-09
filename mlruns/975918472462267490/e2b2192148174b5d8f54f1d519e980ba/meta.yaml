@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e2b2192148174b5d8f54f1d519e980ba/artifacts
+end_time: 1707473409114
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e2b2192148174b5d8f54f1d519e980ba
+run_name: flawless-grouse-341
+run_uuid: e2b2192148174b5d8f54f1d519e980ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473407945
+status: 3
+tags: []
+user_id: runner

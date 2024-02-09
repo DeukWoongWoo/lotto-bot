@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/41686dc267d44261a3b3005ef7050239/artifacts
+end_time: 1707473419837
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 41686dc267d44261a3b3005ef7050239
+run_name: calm-conch-584
+run_uuid: 41686dc267d44261a3b3005ef7050239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473416768
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/459be25c7ff9415ab527fad0cbd0dfcd/artifacts
+end_time: 1707473413300
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 459be25c7ff9415ab527fad0cbd0dfcd
+run_name: fun-seal-119
+run_uuid: 459be25c7ff9415ab527fad0cbd0dfcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473412418
+status: 3
+tags: []
+user_id: runner

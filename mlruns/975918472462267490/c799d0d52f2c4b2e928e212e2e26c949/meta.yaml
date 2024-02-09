@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c799d0d52f2c4b2e928e212e2e26c949/artifacts
+end_time: 1707473403506
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c799d0d52f2c4b2e928e212e2e26c949
+run_name: salty-fly-620
+run_uuid: c799d0d52f2c4b2e928e212e2e26c949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473402958
+status: 3
+tags: []
+user_id: runner

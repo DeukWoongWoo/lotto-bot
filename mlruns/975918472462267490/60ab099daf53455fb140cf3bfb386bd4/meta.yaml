@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/60ab099daf53455fb140cf3bfb386bd4/artifacts
+end_time: 1707473401059
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 60ab099daf53455fb140cf3bfb386bd4
+run_name: amazing-asp-862
+run_uuid: 60ab099daf53455fb140cf3bfb386bd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707473399429
+status: 3
+tags: []
+user_id: runner
