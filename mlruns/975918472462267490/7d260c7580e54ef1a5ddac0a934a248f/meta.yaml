@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7d260c7580e54ef1a5ddac0a934a248f/artifacts
+end_time: 1708078282278
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7d260c7580e54ef1a5ddac0a934a248f
+run_name: rebellious-panda-964
+run_uuid: 7d260c7580e54ef1a5ddac0a934a248f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078281376
+status: 3
+tags: []
+user_id: runner

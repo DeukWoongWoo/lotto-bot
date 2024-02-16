@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eab394ea73a943939ccd18d66ff3c58d/artifacts
+end_time: 1708078274935
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eab394ea73a943939ccd18d66ff3c58d
+run_name: gregarious-seal-382
+run_uuid: eab394ea73a943939ccd18d66ff3c58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078272153
+status: 3
+tags: []
+user_id: runner

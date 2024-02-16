@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fb8a02c564434743934c0d01d6ad0588/artifacts
+end_time: 1708078288906
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fb8a02c564434743934c0d01d6ad0588
+run_name: grandiose-toad-153
+run_uuid: fb8a02c564434743934c0d01d6ad0588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078287364
+status: 3
+tags: []
+user_id: runner

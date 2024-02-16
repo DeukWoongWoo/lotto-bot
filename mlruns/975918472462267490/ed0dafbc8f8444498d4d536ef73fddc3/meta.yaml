@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ed0dafbc8f8444498d4d536ef73fddc3/artifacts
+end_time: 1708078267719
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ed0dafbc8f8444498d4d536ef73fddc3
+run_name: spiffy-shark-684
+run_uuid: ed0dafbc8f8444498d4d536ef73fddc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078266461
+status: 3
+tags: []
+user_id: runner

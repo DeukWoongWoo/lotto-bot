@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b7bb270b0a924dac868e913f57497660/artifacts
+end_time: 1708078276770
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b7bb270b0a924dac868e913f57497660
+run_name: treasured-fowl-713
+run_uuid: b7bb270b0a924dac868e913f57497660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078274949
+status: 3
+tags: []
+user_id: runner

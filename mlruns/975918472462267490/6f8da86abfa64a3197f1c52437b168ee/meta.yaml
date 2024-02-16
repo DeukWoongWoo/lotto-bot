@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6f8da86abfa64a3197f1c52437b168ee/artifacts
+end_time: 1708078292623
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6f8da86abfa64a3197f1c52437b168ee
+run_name: rebellious-worm-675
+run_uuid: 6f8da86abfa64a3197f1c52437b168ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078289892
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e63c5a424ba143b1972b49d47c699d3c/artifacts
+end_time: 1708078293452
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e63c5a424ba143b1972b49d47c699d3c
+run_name: capable-tern-794
+run_uuid: e63c5a424ba143b1972b49d47c699d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078292638
+status: 3
+tags: []
+user_id: runner

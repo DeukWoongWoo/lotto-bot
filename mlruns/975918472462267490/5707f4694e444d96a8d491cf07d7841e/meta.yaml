@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5707f4694e444d96a8d491cf07d7841e/artifacts
+end_time: 1708078270843
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5707f4694e444d96a8d491cf07d7841e
+run_name: righteous-quail-542
+run_uuid: 5707f4694e444d96a8d491cf07d7841e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078270132
+status: 3
+tags: []
+user_id: runner

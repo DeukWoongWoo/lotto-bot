@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c943dd2a49ec4382b9856afb68b51ca5/artifacts
+end_time: 1708078270117
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c943dd2a49ec4382b9856afb68b51ca5
+run_name: glamorous-stoat-623
+run_uuid: c943dd2a49ec4382b9856afb68b51ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708078267734
+status: 3
+tags: []
+user_id: runner
