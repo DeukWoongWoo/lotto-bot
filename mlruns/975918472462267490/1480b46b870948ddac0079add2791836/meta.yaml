@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1480b46b870948ddac0079add2791836/artifacts
+end_time: 1708683042908
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1480b46b870948ddac0079add2791836
+run_name: trusting-crow-165
+run_uuid: 1480b46b870948ddac0079add2791836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683042230
+status: 3
+tags: []
+user_id: runner

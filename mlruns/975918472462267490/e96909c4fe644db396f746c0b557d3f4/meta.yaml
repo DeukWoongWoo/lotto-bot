@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e96909c4fe644db396f746c0b557d3f4/artifacts
+end_time: 1708683050920
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e96909c4fe644db396f746c0b557d3f4
+run_name: thoughtful-hare-643
+run_uuid: e96909c4fe644db396f746c0b557d3f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683048828
+status: 3
+tags: []
+user_id: runner

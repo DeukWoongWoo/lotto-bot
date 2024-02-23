@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/25698031b25a4641bbeac9675cb8423f/artifacts
+end_time: 1708683056761
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 25698031b25a4641bbeac9675cb8423f
+run_name: persistent-ant-193
+run_uuid: 25698031b25a4641bbeac9675cb8423f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683055553
+status: 3
+tags: []
+user_id: runner

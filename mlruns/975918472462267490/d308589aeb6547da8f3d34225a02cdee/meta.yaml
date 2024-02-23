@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d308589aeb6547da8f3d34225a02cdee/artifacts
+end_time: 1708683053334
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d308589aeb6547da8f3d34225a02cdee
+run_name: orderly-trout-498
+run_uuid: d308589aeb6547da8f3d34225a02cdee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683052588
+status: 3
+tags: []
+user_id: runner

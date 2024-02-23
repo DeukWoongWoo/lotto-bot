@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/01495b3edfe94e51be3a5aba77941e2b/artifacts
+end_time: 1708683043925
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 01495b3edfe94e51be3a5aba77941e2b
+run_name: dazzling-seal-378
+run_uuid: 01495b3edfe94e51be3a5aba77941e2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683042921
+status: 3
+tags: []
+user_id: runner

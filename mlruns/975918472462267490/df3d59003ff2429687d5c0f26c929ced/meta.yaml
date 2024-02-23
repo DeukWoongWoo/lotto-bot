@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/df3d59003ff2429687d5c0f26c929ced/artifacts
+end_time: 1708683054528
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: df3d59003ff2429687d5c0f26c929ced
+run_name: fortunate-ram-92
+run_uuid: df3d59003ff2429687d5c0f26c929ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708683053348
+status: 3
+tags: []
+user_id: runner
