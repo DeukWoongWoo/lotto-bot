@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/98361c7aeb1d400786b08d7336e2d857/artifacts
+end_time: 1709287856340
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 98361c7aeb1d400786b08d7336e2d857
+run_name: bemused-skunk-923
+run_uuid: 98361c7aeb1d400786b08d7336e2d857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287854605
+status: 3
+tags: []
+user_id: runner

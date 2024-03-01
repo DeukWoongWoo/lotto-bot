@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ed94d1837b404da6ae6e70475f57204e/artifacts
+end_time: 1709287849811
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ed94d1837b404da6ae6e70475f57204e
+run_name: resilient-lark-935
+run_uuid: ed94d1837b404da6ae6e70475f57204e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287846817
+status: 3
+tags: []
+user_id: runner

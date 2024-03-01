@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/354a1491077d46819e5cbf71a2d22233/artifacts
+end_time: 1709287846149
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 354a1491077d46819e5cbf71a2d22233
+run_name: ambitious-stoat-461
+run_uuid: 354a1491077d46819e5cbf71a2d22233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287845506
+status: 3
+tags: []
+user_id: runner

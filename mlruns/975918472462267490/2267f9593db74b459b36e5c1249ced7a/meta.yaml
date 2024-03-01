@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2267f9593db74b459b36e5c1249ced7a/artifacts
+end_time: 1709287852492
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2267f9593db74b459b36e5c1249ced7a
+run_name: able-loon-859
+run_uuid: 2267f9593db74b459b36e5c1249ced7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287851717
+status: 3
+tags: []
+user_id: runner

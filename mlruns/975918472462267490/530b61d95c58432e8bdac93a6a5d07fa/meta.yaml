@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/530b61d95c58432e8bdac93a6a5d07fa/artifacts
+end_time: 1709287842293
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 530b61d95c58432e8bdac93a6a5d07fa
+run_name: whimsical-carp-927
+run_uuid: 530b61d95c58432e8bdac93a6a5d07fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709287840951
+status: 3
+tags: []
+user_id: runner
