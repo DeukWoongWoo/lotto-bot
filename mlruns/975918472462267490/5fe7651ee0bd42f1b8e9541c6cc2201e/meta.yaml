@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5fe7651ee0bd42f1b8e9541c6cc2201e/artifacts
+end_time: 1709892725154
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5fe7651ee0bd42f1b8e9541c6cc2201e
+run_name: thoughtful-foal-403
+run_uuid: 5fe7651ee0bd42f1b8e9541c6cc2201e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892721852
+status: 3
+tags: []
+user_id: runner

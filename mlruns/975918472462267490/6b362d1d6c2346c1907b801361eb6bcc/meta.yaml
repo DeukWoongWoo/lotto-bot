@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6b362d1d6c2346c1907b801361eb6bcc/artifacts
+end_time: 1709892713340
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6b362d1d6c2346c1907b801361eb6bcc
+run_name: delightful-smelt-837
+run_uuid: 6b362d1d6c2346c1907b801361eb6bcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892711087
+status: 3
+tags: []
+user_id: runner

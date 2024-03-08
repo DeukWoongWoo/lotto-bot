@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/469290f52c974785ab7b6b4760c85dea/artifacts
+end_time: 1709892720920
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 469290f52c974785ab7b6b4760c85dea
+run_name: upbeat-crab-707
+run_uuid: 469290f52c974785ab7b6b4760c85dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892719661
+status: 3
+tags: []
+user_id: runner

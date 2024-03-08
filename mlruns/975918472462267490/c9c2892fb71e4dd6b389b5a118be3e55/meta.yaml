@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c9c2892fb71e4dd6b389b5a118be3e55/artifacts
+end_time: 1709892698001
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c9c2892fb71e4dd6b389b5a118be3e55
+run_name: wise-moose-868
+run_uuid: c9c2892fb71e4dd6b389b5a118be3e55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709892697424
+status: 3
+tags: []
+user_id: runner
