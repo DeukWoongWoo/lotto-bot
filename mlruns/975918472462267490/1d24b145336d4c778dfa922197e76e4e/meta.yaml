@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1d24b145336d4c778dfa922197e76e4e/artifacts
+end_time: 1710497397502
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1d24b145336d4c778dfa922197e76e4e
+run_name: awesome-roo-937
+run_uuid: 1d24b145336d4c778dfa922197e76e4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497396172
+status: 3
+tags: []
+user_id: runner

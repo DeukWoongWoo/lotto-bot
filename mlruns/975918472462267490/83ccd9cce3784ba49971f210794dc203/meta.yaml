@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/83ccd9cce3784ba49971f210794dc203/artifacts
+end_time: 1710497393641
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 83ccd9cce3784ba49971f210794dc203
+run_name: secretive-pig-129
+run_uuid: 83ccd9cce3784ba49971f210794dc203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497392866
+status: 3
+tags: []
+user_id: runner

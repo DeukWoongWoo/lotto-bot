@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/26239088c79b4234bd0ad91caea4dd55/artifacts
+end_time: 1710497390601
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 26239088c79b4234bd0ad91caea4dd55
+run_name: abundant-midge-623
+run_uuid: 26239088c79b4234bd0ad91caea4dd55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497389639
+status: 3
+tags: []
+user_id: runner

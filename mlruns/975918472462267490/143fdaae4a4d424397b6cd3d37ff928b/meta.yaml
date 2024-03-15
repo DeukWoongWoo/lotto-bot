@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/143fdaae4a4d424397b6cd3d37ff928b/artifacts
+end_time: 1710497394342
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 143fdaae4a4d424397b6cd3d37ff928b
+run_name: traveling-squid-793
+run_uuid: 143fdaae4a4d424397b6cd3d37ff928b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497393654
+status: 3
+tags: []
+user_id: runner

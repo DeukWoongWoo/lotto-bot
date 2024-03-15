@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c1047949f25148269274917c2161f645/artifacts
+end_time: 1710497402148
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c1047949f25148269274917c2161f645
+run_name: respected-hawk-243
+run_uuid: c1047949f25148269274917c2161f645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710497399564
+status: 3
+tags: []
+user_id: runner
