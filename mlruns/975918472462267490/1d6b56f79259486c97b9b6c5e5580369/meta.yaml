@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1d6b56f79259486c97b9b6c5e5580369/artifacts
+end_time: 1711102299054
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1d6b56f79259486c97b9b6c5e5580369
+run_name: exultant-roo-560
+run_uuid: 1d6b56f79259486c97b9b6c5e5580369
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102296289
+status: 3
+tags: []
+user_id: runner

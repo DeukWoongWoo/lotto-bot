@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f4c824d13b6e4c868b0d2dccb6b9d563/artifacts
+end_time: 1711102296275
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f4c824d13b6e4c868b0d2dccb6b9d563
+run_name: big-bee-175
+run_uuid: f4c824d13b6e4c868b0d2dccb6b9d563
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102295559
+status: 3
+tags: []
+user_id: runner

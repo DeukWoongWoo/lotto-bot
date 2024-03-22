@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9d2168c6098b4d1ea4a37c992e769ced/artifacts
+end_time: 1711102284643
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9d2168c6098b4d1ea4a37c992e769ced
+run_name: luxuriant-donkey-922
+run_uuid: 9d2168c6098b4d1ea4a37c992e769ced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102282383
+status: 3
+tags: []
+user_id: runner

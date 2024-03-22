@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cb1b5be610f04396a188fa1452c5ee0a/artifacts
+end_time: 1711102291323
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cb1b5be610f04396a188fa1452c5ee0a
+run_name: serious-cow-351
+run_uuid: cb1b5be610f04396a188fa1452c5ee0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102290129
+status: 3
+tags: []
+user_id: runner

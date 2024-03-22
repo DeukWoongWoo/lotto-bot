@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e767734e6ecd465da187457d3ae50ad1/artifacts
+end_time: 1711102288251
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e767734e6ecd465da187457d3ae50ad1
+run_name: handsome-squid-117
+run_uuid: e767734e6ecd465da187457d3ae50ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102287686
+status: 3
+tags: []
+user_id: runner

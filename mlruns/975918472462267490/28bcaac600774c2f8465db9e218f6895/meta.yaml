@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/28bcaac600774c2f8465db9e218f6895/artifacts
+end_time: 1711102293928
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 28bcaac600774c2f8465db9e218f6895
+run_name: clean-fawn-458
+run_uuid: 28bcaac600774c2f8465db9e218f6895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711102292669
+status: 3
+tags: []
+user_id: runner
