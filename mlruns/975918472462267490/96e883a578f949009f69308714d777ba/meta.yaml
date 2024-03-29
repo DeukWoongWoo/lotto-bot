@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/96e883a578f949009f69308714d777ba/artifacts
+end_time: 1711707075120
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 96e883a578f949009f69308714d777ba
+run_name: fearless-midge-205
+run_uuid: 96e883a578f949009f69308714d777ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707073863
+status: 3
+tags: []
+user_id: runner

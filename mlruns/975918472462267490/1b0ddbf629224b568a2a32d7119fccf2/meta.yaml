@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1b0ddbf629224b568a2a32d7119fccf2/artifacts
+end_time: 1711707084538
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1b0ddbf629224b568a2a32d7119fccf2
+run_name: bright-duck-347
+run_uuid: 1b0ddbf629224b568a2a32d7119fccf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707082922
+status: 3
+tags: []
+user_id: runner

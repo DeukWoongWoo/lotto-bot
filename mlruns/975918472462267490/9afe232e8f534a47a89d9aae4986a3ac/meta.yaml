@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9afe232e8f534a47a89d9aae4986a3ac/artifacts
+end_time: 1711707067374
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9afe232e8f534a47a89d9aae4986a3ac
+run_name: upbeat-midge-442
+run_uuid: 9afe232e8f534a47a89d9aae4986a3ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707066763
+status: 3
+tags: []
+user_id: runner

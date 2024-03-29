@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fad560f16b06418d833f8562853d3adf/artifacts
+end_time: 1711707068514
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fad560f16b06418d833f8562853d3adf
+run_name: upbeat-squirrel-901
+run_uuid: fad560f16b06418d833f8562853d3adf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707067393
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/60709a3225d949108221559e3847841e/artifacts
+end_time: 1711707077982
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 60709a3225d949108221559e3847841e
+run_name: spiffy-gull-375
+run_uuid: 60709a3225d949108221559e3847841e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707075135
+status: 3
+tags: []
+user_id: runner

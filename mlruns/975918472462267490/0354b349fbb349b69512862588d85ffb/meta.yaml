@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0354b349fbb349b69512862588d85ffb/artifacts
+end_time: 1711707086457
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0354b349fbb349b69512862588d85ffb
+run_name: aged-deer-685
+run_uuid: 0354b349fbb349b69512862588d85ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707084553
+status: 3
+tags: []
+user_id: runner

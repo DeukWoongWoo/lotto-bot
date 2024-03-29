@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fc2c06208c634d72a98208cb56ce0188/artifacts
+end_time: 1711707073841
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fc2c06208c634d72a98208cb56ce0188
+run_name: merciful-rat-121
+run_uuid: fc2c06208c634d72a98208cb56ce0188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707072634
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fd8fa09737ab48728a029b2ad7b24191/artifacts
+end_time: 1711707091009
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fd8fa09737ab48728a029b2ad7b24191
+run_name: popular-mink-674
+run_uuid: fd8fa09737ab48728a029b2ad7b24191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711707088771
+status: 3
+tags: []
+user_id: runner
