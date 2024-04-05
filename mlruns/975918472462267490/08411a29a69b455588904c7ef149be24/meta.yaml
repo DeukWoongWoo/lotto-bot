@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/08411a29a69b455588904c7ef149be24/artifacts
+end_time: 1712311938942
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 08411a29a69b455588904c7ef149be24
+run_name: dashing-colt-903
+run_uuid: 08411a29a69b455588904c7ef149be24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712311936217
+status: 3
+tags: []
+user_id: runner

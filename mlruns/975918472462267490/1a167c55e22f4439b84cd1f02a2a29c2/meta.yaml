@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1a167c55e22f4439b84cd1f02a2a29c2/artifacts
+end_time: 1712311949091
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1a167c55e22f4439b84cd1f02a2a29c2
+run_name: redolent-vole-926
+run_uuid: 1a167c55e22f4439b84cd1f02a2a29c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712311947551
+status: 3
+tags: []
+user_id: runner

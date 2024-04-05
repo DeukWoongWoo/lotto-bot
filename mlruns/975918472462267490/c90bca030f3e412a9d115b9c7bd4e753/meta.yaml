@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c90bca030f3e412a9d115b9c7bd4e753/artifacts
+end_time: 1712311960263
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c90bca030f3e412a9d115b9c7bd4e753
+run_name: clumsy-ape-304
+run_uuid: c90bca030f3e412a9d115b9c7bd4e753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712311958948
+status: 3
+tags: []
+user_id: runner

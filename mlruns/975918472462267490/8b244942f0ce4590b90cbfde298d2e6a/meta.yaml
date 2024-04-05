@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8b244942f0ce4590b90cbfde298d2e6a/artifacts
+end_time: 1712311941604
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8b244942f0ce4590b90cbfde298d2e6a
+run_name: gaudy-bass-420
+run_uuid: 8b244942f0ce4590b90cbfde298d2e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712311940478
+status: 3
+tags: []
+user_id: runner
