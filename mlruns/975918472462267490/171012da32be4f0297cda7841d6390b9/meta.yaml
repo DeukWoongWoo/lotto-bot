@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/171012da32be4f0297cda7841d6390b9/artifacts
+end_time: 1712916740716
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 171012da32be4f0297cda7841d6390b9
+run_name: dazzling-rat-196
+run_uuid: 171012da32be4f0297cda7841d6390b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916738680
+status: 3
+tags: []
+user_id: runner

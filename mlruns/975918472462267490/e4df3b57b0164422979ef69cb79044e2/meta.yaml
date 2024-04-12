@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e4df3b57b0164422979ef69cb79044e2/artifacts
+end_time: 1712916745423
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e4df3b57b0164422979ef69cb79044e2
+run_name: aged-squirrel-198
+run_uuid: e4df3b57b0164422979ef69cb79044e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916740724
+status: 3
+tags: []
+user_id: runner

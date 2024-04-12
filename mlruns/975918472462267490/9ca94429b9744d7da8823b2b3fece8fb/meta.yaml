@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9ca94429b9744d7da8823b2b3fece8fb/artifacts
+end_time: 1712916734627
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9ca94429b9744d7da8823b2b3fece8fb
+run_name: popular-conch-433
+run_uuid: 9ca94429b9744d7da8823b2b3fece8fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916733470
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c87ac7d1842248f6be85d06ef1c6187c/artifacts
+end_time: 1712916714607
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c87ac7d1842248f6be85d06ef1c6187c
+run_name: merciful-doe-797
+run_uuid: c87ac7d1842248f6be85d06ef1c6187c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712916710670
+status: 3
+tags: []
+user_id: runner
