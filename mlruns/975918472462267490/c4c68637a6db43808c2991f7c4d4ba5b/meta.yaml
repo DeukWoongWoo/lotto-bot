@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c4c68637a6db43808c2991f7c4d4ba5b/artifacts
+end_time: 1713521494899
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c4c68637a6db43808c2991f7c4d4ba5b
+run_name: carefree-gnu-828
+run_uuid: c4c68637a6db43808c2991f7c4d4ba5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521493404
+status: 3
+tags: []
+user_id: runner

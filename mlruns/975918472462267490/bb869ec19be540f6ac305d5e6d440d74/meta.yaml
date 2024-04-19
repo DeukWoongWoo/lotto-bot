@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bb869ec19be540f6ac305d5e6d440d74/artifacts
+end_time: 1713521484489
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bb869ec19be540f6ac305d5e6d440d74
+run_name: secretive-stoat-523
+run_uuid: bb869ec19be540f6ac305d5e6d440d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521482503
+status: 3
+tags: []
+user_id: runner

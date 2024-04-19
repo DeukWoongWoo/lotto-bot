@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bbee4ee10071418c8580099b44f7b418/artifacts
+end_time: 1713521498809
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bbee4ee10071418c8580099b44f7b418
+run_name: clumsy-ray-844
+run_uuid: bbee4ee10071418c8580099b44f7b418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521494906
+status: 3
+tags: []
+user_id: runner

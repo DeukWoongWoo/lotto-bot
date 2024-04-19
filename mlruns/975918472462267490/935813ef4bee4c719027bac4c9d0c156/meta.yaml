@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/935813ef4bee4c719027bac4c9d0c156/artifacts
+end_time: 1713521485881
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 935813ef4bee4c719027bac4c9d0c156
+run_name: shivering-whale-909
+run_uuid: 935813ef4bee4c719027bac4c9d0c156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521484505
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fbb4edbf2cf542faadd14469d13e30f1/artifacts
+end_time: 1713521488173
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fbb4edbf2cf542faadd14469d13e30f1
+run_name: unruly-shark-62
+run_uuid: fbb4edbf2cf542faadd14469d13e30f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521485896
+status: 3
+tags: []
+user_id: runner

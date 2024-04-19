@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e12ee4c7fefb46c592c8b752a4a3d976/artifacts
+end_time: 1713521472686
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e12ee4c7fefb46c592c8b752a4a3d976
+run_name: blushing-doe-393
+run_uuid: e12ee4c7fefb46c592c8b752a4a3d976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521471757
+status: 3
+tags: []
+user_id: runner

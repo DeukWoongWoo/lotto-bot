@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1d948119e6ac4b5ca7f1378e0c20c1cf/artifacts
+end_time: 1713521476884
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1d948119e6ac4b5ca7f1378e0c20c1cf
+run_name: unleashed-bug-681
+run_uuid: 1d948119e6ac4b5ca7f1378e0c20c1cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521472708
+status: 3
+tags: []
+user_id: runner

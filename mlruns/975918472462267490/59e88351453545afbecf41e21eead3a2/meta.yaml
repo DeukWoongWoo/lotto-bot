@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/59e88351453545afbecf41e21eead3a2/artifacts
+end_time: 1713521469650
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 59e88351453545afbecf41e21eead3a2
+run_name: judicious-rat-22
+run_uuid: 59e88351453545afbecf41e21eead3a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713521466964
+status: 3
+tags: []
+user_id: runner
