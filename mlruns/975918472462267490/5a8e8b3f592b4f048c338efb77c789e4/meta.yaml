@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5a8e8b3f592b4f048c338efb77c789e4/artifacts
+end_time: 1714126213967
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5a8e8b3f592b4f048c338efb77c789e4
+run_name: dazzling-ape-916
+run_uuid: 5a8e8b3f592b4f048c338efb77c789e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126213178
+status: 3
+tags: []
+user_id: runner

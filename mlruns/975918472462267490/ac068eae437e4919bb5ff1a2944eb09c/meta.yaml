@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ac068eae437e4919bb5ff1a2944eb09c/artifacts
+end_time: 1714126221113
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ac068eae437e4919bb5ff1a2944eb09c
+run_name: burly-goat-329
+run_uuid: ac068eae437e4919bb5ff1a2944eb09c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126220063
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/58e1dc6de0c446f48a7a4f06e29dac21/artifacts
+end_time: 1714126210405
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 58e1dc6de0c446f48a7a4f06e29dac21
+run_name: kindly-goat-886
+run_uuid: 58e1dc6de0c446f48a7a4f06e29dac21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126208701
+status: 3
+tags: []
+user_id: runner

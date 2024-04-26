@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5d3230d810114c83a7794ed327d0393a/artifacts
+end_time: 1714126217148
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5d3230d810114c83a7794ed327d0393a
+run_name: rebellious-auk-117
+run_uuid: 5d3230d810114c83a7794ed327d0393a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126215856
+status: 3
+tags: []
+user_id: runner

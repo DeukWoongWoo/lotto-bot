@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1cc995eff79a4857a6258ba7ae613273/artifacts
+end_time: 1714126213166
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1cc995eff79a4857a6258ba7ae613273
+run_name: capable-mole-855
+run_uuid: 1cc995eff79a4857a6258ba7ae613273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126212167
+status: 3
+tags: []
+user_id: runner

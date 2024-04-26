@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fe8ae7b3d5814462952cb3b3f28ed1a4/artifacts
+end_time: 1714126225006
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fe8ae7b3d5814462952cb3b3f28ed1a4
+run_name: likeable-loon-660
+run_uuid: fe8ae7b3d5814462952cb3b3f28ed1a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714126223984
+status: 3
+tags: []
+user_id: runner
