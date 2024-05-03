@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5267029f949b49f2976c3605ee8ac501/artifacts
+end_time: 1714731272419
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5267029f949b49f2976c3605ee8ac501
+run_name: capable-vole-601
+run_uuid: 5267029f949b49f2976c3605ee8ac501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731270817
+status: 3
+tags: []
+user_id: runner

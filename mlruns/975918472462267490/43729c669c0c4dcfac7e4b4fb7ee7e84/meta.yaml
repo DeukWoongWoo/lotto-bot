@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/43729c669c0c4dcfac7e4b4fb7ee7e84/artifacts
+end_time: 1714731286128
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 43729c669c0c4dcfac7e4b4fb7ee7e84
+run_name: silent-calf-789
+run_uuid: 43729c669c0c4dcfac7e4b4fb7ee7e84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731281696
+status: 3
+tags: []
+user_id: runner

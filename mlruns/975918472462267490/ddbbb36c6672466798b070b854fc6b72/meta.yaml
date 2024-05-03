@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ddbbb36c6672466798b070b854fc6b72/artifacts
+end_time: 1714731281684
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ddbbb36c6672466798b070b854fc6b72
+run_name: rumbling-donkey-920
+run_uuid: ddbbb36c6672466798b070b854fc6b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731280768
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7b9148ad804a4350b6000779e8aba952/artifacts
+end_time: 1714731276896
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7b9148ad804a4350b6000779e8aba952
+run_name: hilarious-ray-762
+run_uuid: 7b9148ad804a4350b6000779e8aba952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731274377
+status: 3
+tags: []
+user_id: runner

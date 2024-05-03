@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bca5b6e9ebf940b4af9c2f0ea6ab26de/artifacts
+end_time: 1714731266269
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bca5b6e9ebf940b4af9c2f0ea6ab26de
+run_name: traveling-kit-596
+run_uuid: bca5b6e9ebf940b4af9c2f0ea6ab26de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731264684
+status: 3
+tags: []
+user_id: runner

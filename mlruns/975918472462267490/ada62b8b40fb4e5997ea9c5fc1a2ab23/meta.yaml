@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ada62b8b40fb4e5997ea9c5fc1a2ab23/artifacts
+end_time: 1714731259922
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ada62b8b40fb4e5997ea9c5fc1a2ab23
+run_name: placid-shark-784
+run_uuid: ada62b8b40fb4e5997ea9c5fc1a2ab23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714731257901
+status: 3
+tags: []
+user_id: runner
