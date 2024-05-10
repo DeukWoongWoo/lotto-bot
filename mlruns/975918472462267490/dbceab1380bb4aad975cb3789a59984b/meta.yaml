@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dbceab1380bb4aad975cb3789a59984b/artifacts
+end_time: 1715335942521
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dbceab1380bb4aad975cb3789a59984b
+run_name: smiling-finch-390
+run_uuid: dbceab1380bb4aad975cb3789a59984b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715335941550
+status: 3
+tags: []
+user_id: runner

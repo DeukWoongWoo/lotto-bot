@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3b09ac04dd6045998f4f292b9216b47e/artifacts
+end_time: 1715335943238
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3b09ac04dd6045998f4f292b9216b47e
+run_name: righteous-hen-293
+run_uuid: 3b09ac04dd6045998f4f292b9216b47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715335942535
+status: 3
+tags: []
+user_id: runner
