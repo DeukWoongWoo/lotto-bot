@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7372798459f64632afc26f8b4e796d12/artifacts
+end_time: 1715940669268
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7372798459f64632afc26f8b4e796d12
+run_name: omniscient-snail-939
+run_uuid: 7372798459f64632afc26f8b4e796d12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940665447
+status: 3
+tags: []
+user_id: runner

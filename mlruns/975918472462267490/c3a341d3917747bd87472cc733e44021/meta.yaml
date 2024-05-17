@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c3a341d3917747bd87472cc733e44021/artifacts
+end_time: 1715940654993
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c3a341d3917747bd87472cc733e44021
+run_name: grandiose-crab-25
+run_uuid: c3a341d3917747bd87472cc733e44021
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940654364
+status: 3
+tags: []
+user_id: runner

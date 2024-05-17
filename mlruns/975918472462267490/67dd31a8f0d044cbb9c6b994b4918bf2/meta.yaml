@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/67dd31a8f0d044cbb9c6b994b4918bf2/artifacts
+end_time: 1715940653829
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 67dd31a8f0d044cbb9c6b994b4918bf2
+run_name: colorful-pug-187
+run_uuid: 67dd31a8f0d044cbb9c6b994b4918bf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940652620
+status: 3
+tags: []
+user_id: runner

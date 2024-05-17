@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/12b145b475c740378de6d88a436e8d9e/artifacts
+end_time: 1715940652607
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 12b145b475c740378de6d88a436e8d9e
+run_name: auspicious-lamb-482
+run_uuid: 12b145b475c740378de6d88a436e8d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940651840
+status: 3
+tags: []
+user_id: runner

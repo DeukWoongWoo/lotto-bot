@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/33b8e5aa3d354edcaee6f6130d485ea0/artifacts
+end_time: 1715940657991
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 33b8e5aa3d354edcaee6f6130d485ea0
+run_name: sneaky-ox-389
+run_uuid: 33b8e5aa3d354edcaee6f6130d485ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940657364
+status: 3
+tags: []
+user_id: runner

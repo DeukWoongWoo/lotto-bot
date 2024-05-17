@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fd7d03b9ee5f4cc68d482b8ade800899/artifacts
+end_time: 1715940656246
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fd7d03b9ee5f4cc68d482b8ade800899
+run_name: legendary-boar-500
+run_uuid: fd7d03b9ee5f4cc68d482b8ade800899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715940655570
+status: 3
+tags: []
+user_id: runner
