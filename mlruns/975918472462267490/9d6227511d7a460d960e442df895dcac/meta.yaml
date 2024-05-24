@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9d6227511d7a460d960e442df895dcac/artifacts
+end_time: 1716545502285
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9d6227511d7a460d960e442df895dcac
+run_name: powerful-seal-541
+run_uuid: 9d6227511d7a460d960e442df895dcac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545501730
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5ff1193ad21240bc916185128c86f99e/artifacts
+end_time: 1716545498513
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5ff1193ad21240bc916185128c86f99e
+run_name: masked-ram-184
+run_uuid: 5ff1193ad21240bc916185128c86f99e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545497793
+status: 3
+tags: []
+user_id: runner

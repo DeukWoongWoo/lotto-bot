@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b0fd145549804373a72090262cdfe89b/artifacts
+end_time: 1716545492517
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b0fd145549804373a72090262cdfe89b
+run_name: exultant-wren-818
+run_uuid: b0fd145549804373a72090262cdfe89b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545491634
+status: 3
+tags: []
+user_id: runner

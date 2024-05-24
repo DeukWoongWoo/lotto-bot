@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b6856663275047aabac26f1c714cf1e4/artifacts
+end_time: 1716545493339
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b6856663275047aabac26f1c714cf1e4
+run_name: welcoming-duck-13
+run_uuid: b6856663275047aabac26f1c714cf1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545492529
+status: 3
+tags: []
+user_id: runner

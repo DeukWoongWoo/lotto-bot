@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5016940fd8dd4d429f4918b849ec9962/artifacts
+end_time: 1716545501714
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5016940fd8dd4d429f4918b849ec9962
+run_name: flawless-wren-817
+run_uuid: 5016940fd8dd4d429f4918b849ec9962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716545500078
+status: 3
+tags: []
+user_id: runner
