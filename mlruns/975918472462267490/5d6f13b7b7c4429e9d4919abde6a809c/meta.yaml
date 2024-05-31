@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5d6f13b7b7c4429e9d4919abde6a809c/artifacts
+end_time: 1717150322996
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5d6f13b7b7c4429e9d4919abde6a809c
+run_name: spiffy-perch-848
+run_uuid: 5d6f13b7b7c4429e9d4919abde6a809c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150319145
+status: 3
+tags: []
+user_id: runner

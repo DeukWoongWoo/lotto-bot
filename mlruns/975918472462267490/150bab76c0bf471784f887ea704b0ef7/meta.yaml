@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/150bab76c0bf471784f887ea704b0ef7/artifacts
+end_time: 1717150305272
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 150bab76c0bf471784f887ea704b0ef7
+run_name: auspicious-eel-762
+run_uuid: 150bab76c0bf471784f887ea704b0ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150304135
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d43c724ab74245ae8e23ac0008fa8c01/artifacts
+end_time: 1717150313962
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d43c724ab74245ae8e23ac0008fa8c01
+run_name: nosy-stag-836
+run_uuid: d43c724ab74245ae8e23ac0008fa8c01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150313008
+status: 3
+tags: []
+user_id: runner

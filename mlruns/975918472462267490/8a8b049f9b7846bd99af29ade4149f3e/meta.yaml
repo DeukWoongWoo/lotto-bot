@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8a8b049f9b7846bd99af29ade4149f3e/artifacts
+end_time: 1717150304109
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8a8b049f9b7846bd99af29ade4149f3e
+run_name: unequaled-bass-164
+run_uuid: 8a8b049f9b7846bd99af29ade4149f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150302235
+status: 3
+tags: []
+user_id: runner

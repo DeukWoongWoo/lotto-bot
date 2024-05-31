@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ad86536963044e5b8e4651a8c91dde20/artifacts
+end_time: 1717150316535
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ad86536963044e5b8e4651a8c91dde20
+run_name: nosy-toad-117
+run_uuid: ad86536963044e5b8e4651a8c91dde20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150315688
+status: 3
+tags: []
+user_id: runner

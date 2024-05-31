@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8523424cc24f48e9a85bfa866dcb26c4/artifacts
+end_time: 1717150300956
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8523424cc24f48e9a85bfa866dcb26c4
+run_name: welcoming-worm-300
+run_uuid: 8523424cc24f48e9a85bfa866dcb26c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717150298440
+status: 3
+tags: []
+user_id: runner
