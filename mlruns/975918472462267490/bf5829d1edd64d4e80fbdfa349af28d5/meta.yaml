@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bf5829d1edd64d4e80fbdfa349af28d5/artifacts
+end_time: 1717755065805
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bf5829d1edd64d4e80fbdfa349af28d5
+run_name: delightful-carp-41
+run_uuid: bf5829d1edd64d4e80fbdfa349af28d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755064351
+status: 3
+tags: []
+user_id: runner

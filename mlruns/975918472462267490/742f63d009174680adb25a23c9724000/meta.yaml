@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/742f63d009174680adb25a23c9724000/artifacts
+end_time: 1717755085892
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 742f63d009174680adb25a23c9724000
+run_name: learned-cat-219
+run_uuid: 742f63d009174680adb25a23c9724000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755084922
+status: 3
+tags: []
+user_id: runner

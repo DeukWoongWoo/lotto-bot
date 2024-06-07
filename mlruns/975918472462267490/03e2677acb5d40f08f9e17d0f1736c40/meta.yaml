@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/03e2677acb5d40f08f9e17d0f1736c40/artifacts
+end_time: 1717755092036
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 03e2677acb5d40f08f9e17d0f1736c40
+run_name: loud-mole-190
+run_uuid: 03e2677acb5d40f08f9e17d0f1736c40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755088943
+status: 3
+tags: []
+user_id: runner

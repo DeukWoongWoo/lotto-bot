@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3b5861dc6da043cca08804f433403bcf/artifacts
+end_time: 1717755080892
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3b5861dc6da043cca08804f433403bcf
+run_name: resilient-smelt-594
+run_uuid: 3b5861dc6da043cca08804f433403bcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755080327
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3d6be7d43ac849e0b4c0e9abe959845d/artifacts
+end_time: 1717755088936
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3d6be7d43ac849e0b4c0e9abe959845d
+run_name: salty-dolphin-313
+run_uuid: 3d6be7d43ac849e0b4c0e9abe959845d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755087910
+status: 3
+tags: []
+user_id: runner

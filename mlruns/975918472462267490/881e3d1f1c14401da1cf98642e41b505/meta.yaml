@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/881e3d1f1c14401da1cf98642e41b505/artifacts
+end_time: 1717755073185
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 881e3d1f1c14401da1cf98642e41b505
+run_name: lyrical-eel-425
+run_uuid: 881e3d1f1c14401da1cf98642e41b505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755071842
+status: 3
+tags: []
+user_id: runner

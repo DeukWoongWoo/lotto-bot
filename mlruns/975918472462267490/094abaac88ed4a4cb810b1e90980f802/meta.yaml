@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/094abaac88ed4a4cb810b1e90980f802/artifacts
+end_time: 1717755075121
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 094abaac88ed4a4cb810b1e90980f802
+run_name: casual-midge-351
+run_uuid: 094abaac88ed4a4cb810b1e90980f802
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717755073199
+status: 3
+tags: []
+user_id: runner
