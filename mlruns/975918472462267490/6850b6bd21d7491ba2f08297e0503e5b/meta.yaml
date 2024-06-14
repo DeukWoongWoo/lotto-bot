@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6850b6bd21d7491ba2f08297e0503e5b/artifacts
+end_time: 1718359887475
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6850b6bd21d7491ba2f08297e0503e5b
+run_name: blushing-bee-337
+run_uuid: 6850b6bd21d7491ba2f08297e0503e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359886252
+status: 3
+tags: []
+user_id: runner

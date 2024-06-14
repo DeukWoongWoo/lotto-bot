@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a1364e9b2eb24fd6800e551793f5fc54/artifacts
+end_time: 1718359875975
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a1364e9b2eb24fd6800e551793f5fc54
+run_name: thoughtful-sheep-49
+run_uuid: a1364e9b2eb24fd6800e551793f5fc54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359874253
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e15c07f07c7d41d1a7fda1c4fed291bd/artifacts
+end_time: 1718359881135
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e15c07f07c7d41d1a7fda1c4fed291bd
+run_name: welcoming-wolf-494
+run_uuid: e15c07f07c7d41d1a7fda1c4fed291bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359879721
+status: 3
+tags: []
+user_id: runner

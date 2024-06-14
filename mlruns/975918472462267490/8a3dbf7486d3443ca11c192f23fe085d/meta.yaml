@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8a3dbf7486d3443ca11c192f23fe085d/artifacts
+end_time: 1718359894367
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8a3dbf7486d3443ca11c192f23fe085d
+run_name: invincible-auk-39
+run_uuid: 8a3dbf7486d3443ca11c192f23fe085d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359893550
+status: 3
+tags: []
+user_id: runner

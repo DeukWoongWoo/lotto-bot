@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ea8fea6671f146138864dd690a5d3075/artifacts
+end_time: 1718359874238
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ea8fea6671f146138864dd690a5d3075
+run_name: delightful-horse-249
+run_uuid: ea8fea6671f146138864dd690a5d3075
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359872590
+status: 3
+tags: []
+user_id: runner

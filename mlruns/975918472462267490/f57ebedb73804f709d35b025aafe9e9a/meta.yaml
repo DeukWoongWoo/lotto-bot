@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f57ebedb73804f709d35b025aafe9e9a/artifacts
+end_time: 1718359878366
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f57ebedb73804f709d35b025aafe9e9a
+run_name: rumbling-quail-198
+run_uuid: f57ebedb73804f709d35b025aafe9e9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359875995
+status: 3
+tags: []
+user_id: runner

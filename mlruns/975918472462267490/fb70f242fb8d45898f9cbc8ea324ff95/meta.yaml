@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fb70f242fb8d45898f9cbc8ea324ff95/artifacts
+end_time: 1718359884126
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fb70f242fb8d45898f9cbc8ea324ff95
+run_name: welcoming-eel-828
+run_uuid: fb70f242fb8d45898f9cbc8ea324ff95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359882833
+status: 3
+tags: []
+user_id: runner

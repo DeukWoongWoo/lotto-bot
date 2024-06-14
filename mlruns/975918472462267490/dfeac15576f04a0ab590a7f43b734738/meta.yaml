@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/dfeac15576f04a0ab590a7f43b734738/artifacts
+end_time: 1718359898364
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: dfeac15576f04a0ab590a7f43b734738
+run_name: angry-penguin-31
+run_uuid: dfeac15576f04a0ab590a7f43b734738
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718359895111
+status: 3
+tags: []
+user_id: runner
