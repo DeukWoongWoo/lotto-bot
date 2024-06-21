@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/45406ec4511c4077b44b8df9c9e50089/artifacts
+end_time: 1718964678406
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 45406ec4511c4077b44b8df9c9e50089
+run_name: beautiful-zebra-933
+run_uuid: 45406ec4511c4077b44b8df9c9e50089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964677810
+status: 3
+tags: []
+user_id: runner

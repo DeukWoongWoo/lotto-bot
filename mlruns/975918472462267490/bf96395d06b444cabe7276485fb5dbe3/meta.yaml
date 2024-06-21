@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bf96395d06b444cabe7276485fb5dbe3/artifacts
+end_time: 1718964666295
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bf96395d06b444cabe7276485fb5dbe3
+run_name: valuable-trout-631
+run_uuid: bf96395d06b444cabe7276485fb5dbe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964664521
+status: 3
+tags: []
+user_id: runner

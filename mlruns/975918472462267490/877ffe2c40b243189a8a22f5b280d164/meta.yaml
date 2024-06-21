@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/877ffe2c40b243189a8a22f5b280d164/artifacts
+end_time: 1718964667196
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 877ffe2c40b243189a8a22f5b280d164
+run_name: receptive-goat-72
+run_uuid: 877ffe2c40b243189a8a22f5b280d164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964666310
+status: 3
+tags: []
+user_id: runner

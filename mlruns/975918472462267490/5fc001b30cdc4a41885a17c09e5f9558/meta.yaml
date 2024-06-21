@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5fc001b30cdc4a41885a17c09e5f9558/artifacts
+end_time: 1718964681586
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5fc001b30cdc4a41885a17c09e5f9558
+run_name: bittersweet-ray-480
+run_uuid: 5fc001b30cdc4a41885a17c09e5f9558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718964680217
+status: 3
+tags: []
+user_id: runner
