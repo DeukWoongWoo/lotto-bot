@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1082263125f04eb0a18e692e9418bd1e/artifacts
+end_time: 1719569443530
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1082263125f04eb0a18e692e9418bd1e
+run_name: fearless-stoat-437
+run_uuid: 1082263125f04eb0a18e692e9418bd1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569442786
+status: 3
+tags: []
+user_id: runner

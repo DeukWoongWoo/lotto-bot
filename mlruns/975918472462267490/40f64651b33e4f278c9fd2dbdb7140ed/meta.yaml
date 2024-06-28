@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/40f64651b33e4f278c9fd2dbdb7140ed/artifacts
+end_time: 1719569462111
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 40f64651b33e4f278c9fd2dbdb7140ed
+run_name: puzzled-newt-377
+run_uuid: 40f64651b33e4f278c9fd2dbdb7140ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569459367
+status: 3
+tags: []
+user_id: runner

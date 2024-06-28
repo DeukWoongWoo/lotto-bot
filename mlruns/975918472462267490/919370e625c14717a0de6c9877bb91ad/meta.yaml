@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/919370e625c14717a0de6c9877bb91ad/artifacts
+end_time: 1719569445806
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 919370e625c14717a0de6c9877bb91ad
+run_name: rogue-doe-181
+run_uuid: 919370e625c14717a0de6c9877bb91ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569444614
+status: 3
+tags: []
+user_id: runner

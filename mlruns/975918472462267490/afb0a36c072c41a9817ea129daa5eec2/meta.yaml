@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/afb0a36c072c41a9817ea129daa5eec2/artifacts
+end_time: 1719569454762
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: afb0a36c072c41a9817ea129daa5eec2
+run_name: dapper-tern-681
+run_uuid: afb0a36c072c41a9817ea129daa5eec2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569454310
+status: 3
+tags: []
+user_id: runner

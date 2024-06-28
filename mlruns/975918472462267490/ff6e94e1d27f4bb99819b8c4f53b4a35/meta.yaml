@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ff6e94e1d27f4bb99819b8c4f53b4a35/artifacts
+end_time: 1719569442772
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ff6e94e1d27f4bb99819b8c4f53b4a35
+run_name: wistful-wasp-984
+run_uuid: ff6e94e1d27f4bb99819b8c4f53b4a35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569441799
+status: 3
+tags: []
+user_id: runner

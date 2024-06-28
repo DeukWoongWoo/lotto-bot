@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/76b418e044cf42ac9eb7f50c810d484a/artifacts
+end_time: 1719569459361
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 76b418e044cf42ac9eb7f50c810d484a
+run_name: wise-gnat-868
+run_uuid: 76b418e044cf42ac9eb7f50c810d484a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569458524
+status: 3
+tags: []
+user_id: runner

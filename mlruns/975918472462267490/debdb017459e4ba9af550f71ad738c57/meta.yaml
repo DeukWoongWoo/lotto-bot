@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/debdb017459e4ba9af550f71ad738c57/artifacts
+end_time: 1719569452189
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: debdb017459e4ba9af550f71ad738c57
+run_name: rare-snipe-899
+run_uuid: debdb017459e4ba9af550f71ad738c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719569448561
+status: 3
+tags: []
+user_id: runner
