@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/51b5cd0342ab4de79afad6594f582e47/artifacts
+end_time: 1720174431481
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 51b5cd0342ab4de79afad6594f582e47
+run_name: nebulous-ram-565
+run_uuid: 51b5cd0342ab4de79afad6594f582e47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174429786
+status: 3
+tags: []
+user_id: runner

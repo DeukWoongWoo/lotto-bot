@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b5f1c0ac4bbf4e0690e5b866f393afaf/artifacts
+end_time: 1720174418019
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b5f1c0ac4bbf4e0690e5b866f393afaf
+run_name: adorable-goose-800
+run_uuid: b5f1c0ac4bbf4e0690e5b866f393afaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174416192
+status: 3
+tags: []
+user_id: runner

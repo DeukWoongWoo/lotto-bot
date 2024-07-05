@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6567aac46b2045f391fa72a150191c5c/artifacts
+end_time: 1720174416174
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6567aac46b2045f391fa72a150191c5c
+run_name: luminous-snail-162
+run_uuid: 6567aac46b2045f391fa72a150191c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174414432
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2781bfa3ae264247b2e5c4ee54581ae3/artifacts
+end_time: 1720174429768
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2781bfa3ae264247b2e5c4ee54581ae3
+run_name: brawny-duck-454
+run_uuid: 2781bfa3ae264247b2e5c4ee54581ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174426486
+status: 3
+tags: []
+user_id: runner

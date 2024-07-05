@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/088dd373bd8f450e931e1d8ace11cf3c/artifacts
+end_time: 1720174422749
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 088dd373bd8f450e931e1d8ace11cf3c
+run_name: selective-shark-876
+run_uuid: 088dd373bd8f450e931e1d8ace11cf3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174421055
+status: 3
+tags: []
+user_id: runner

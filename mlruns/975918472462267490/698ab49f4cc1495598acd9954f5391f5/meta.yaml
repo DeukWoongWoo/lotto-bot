@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/698ab49f4cc1495598acd9954f5391f5/artifacts
+end_time: 1720174425132
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 698ab49f4cc1495598acd9954f5391f5
+run_name: fearless-crow-311
+run_uuid: 698ab49f4cc1495598acd9954f5391f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174422768
+status: 3
+tags: []
+user_id: runner

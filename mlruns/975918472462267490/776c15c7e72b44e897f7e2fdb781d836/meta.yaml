@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/776c15c7e72b44e897f7e2fdb781d836/artifacts
+end_time: 1720174419540
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 776c15c7e72b44e897f7e2fdb781d836
+run_name: chill-calf-331
+run_uuid: 776c15c7e72b44e897f7e2fdb781d836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174418038
+status: 3
+tags: []
+user_id: runner

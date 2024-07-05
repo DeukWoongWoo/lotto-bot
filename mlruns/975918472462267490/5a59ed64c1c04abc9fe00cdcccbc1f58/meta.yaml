@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5a59ed64c1c04abc9fe00cdcccbc1f58/artifacts
+end_time: 1720174421036
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5a59ed64c1c04abc9fe00cdcccbc1f58
+run_name: honorable-sheep-0
+run_uuid: 5a59ed64c1c04abc9fe00cdcccbc1f58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720174419559
+status: 3
+tags: []
+user_id: runner
