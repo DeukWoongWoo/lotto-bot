@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2a010d72a6e74fcc81fa8c43a97550ef/artifacts
+end_time: 1720779098691
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2a010d72a6e74fcc81fa8c43a97550ef
+run_name: bouncy-crow-341
+run_uuid: 2a010d72a6e74fcc81fa8c43a97550ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779097809
+status: 3
+tags: []
+user_id: runner

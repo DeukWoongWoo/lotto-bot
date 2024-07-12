@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bad93fbc0f94488dbae7628ed10287ed/artifacts
+end_time: 1720779094064
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bad93fbc0f94488dbae7628ed10287ed
+run_name: resilient-fawn-357
+run_uuid: bad93fbc0f94488dbae7628ed10287ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779091279
+status: 3
+tags: []
+user_id: runner

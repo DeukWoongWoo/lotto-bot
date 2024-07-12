@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f725ce5529484f3b9aba6d3ecededc99/artifacts
+end_time: 1720779097795
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f725ce5529484f3b9aba6d3ecededc99
+run_name: capricious-wolf-803
+run_uuid: f725ce5529484f3b9aba6d3ecededc99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779096976
+status: 3
+tags: []
+user_id: runner

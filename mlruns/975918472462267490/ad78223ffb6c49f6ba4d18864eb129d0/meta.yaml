@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ad78223ffb6c49f6ba4d18864eb129d0/artifacts
+end_time: 1720779091266
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ad78223ffb6c49f6ba4d18864eb129d0
+run_name: ambitious-crab-512
+run_uuid: ad78223ffb6c49f6ba4d18864eb129d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779090545
+status: 3
+tags: []
+user_id: runner

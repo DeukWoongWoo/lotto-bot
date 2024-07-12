@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/887f15eb11764fb9b5be4c1999b251f1/artifacts
+end_time: 1720779101937
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 887f15eb11764fb9b5be4c1999b251f1
+run_name: salty-fox-782
+run_uuid: 887f15eb11764fb9b5be4c1999b251f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779100213
+status: 3
+tags: []
+user_id: runner

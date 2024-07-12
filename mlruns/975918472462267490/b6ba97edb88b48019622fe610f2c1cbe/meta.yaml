@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b6ba97edb88b48019622fe610f2c1cbe/artifacts
+end_time: 1720779100199
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b6ba97edb88b48019622fe610f2c1cbe
+run_name: overjoyed-boar-516
+run_uuid: b6ba97edb88b48019622fe610f2c1cbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779098704
+status: 3
+tags: []
+user_id: runner

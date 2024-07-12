@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ba60c38ebfed44b49df3ae8942e03750/artifacts
+end_time: 1720779075309
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ba60c38ebfed44b49df3ae8942e03750
+run_name: capricious-hawk-594
+run_uuid: ba60c38ebfed44b49df3ae8942e03750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779073575
+status: 3
+tags: []
+user_id: runner

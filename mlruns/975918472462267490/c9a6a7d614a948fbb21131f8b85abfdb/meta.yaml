@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c9a6a7d614a948fbb21131f8b85abfdb/artifacts
+end_time: 1720779079862
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c9a6a7d614a948fbb21131f8b85abfdb
+run_name: skittish-stag-769
+run_uuid: c9a6a7d614a948fbb21131f8b85abfdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779075330
+status: 3
+tags: []
+user_id: runner
