@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/53d1babf191c4ae38108a948afdaff3f/artifacts
+end_time: 1721383874358
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 53d1babf191c4ae38108a948afdaff3f
+run_name: honorable-wasp-595
+run_uuid: 53d1babf191c4ae38108a948afdaff3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721383872975
+status: 3
+tags: []
+user_id: runner

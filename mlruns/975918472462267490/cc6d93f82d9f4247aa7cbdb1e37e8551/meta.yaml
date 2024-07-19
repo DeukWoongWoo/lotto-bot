@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cc6d93f82d9f4247aa7cbdb1e37e8551/artifacts
+end_time: 1721383884278
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cc6d93f82d9f4247aa7cbdb1e37e8551
+run_name: wistful-ram-252
+run_uuid: cc6d93f82d9f4247aa7cbdb1e37e8551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721383882036
+status: 3
+tags: []
+user_id: runner

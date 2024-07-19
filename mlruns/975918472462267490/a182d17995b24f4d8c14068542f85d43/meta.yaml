@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a182d17995b24f4d8c14068542f85d43/artifacts
+end_time: 1721383882023
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a182d17995b24f4d8c14068542f85d43
+run_name: upset-elk-255
+run_uuid: a182d17995b24f4d8c14068542f85d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721383881087
+status: 3
+tags: []
+user_id: runner

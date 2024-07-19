@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/69f6ec8cb3be4029b009e32037d1c217/artifacts
+end_time: 1721383881073
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 69f6ec8cb3be4029b009e32037d1c217
+run_name: placid-finch-683
+run_uuid: 69f6ec8cb3be4029b009e32037d1c217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721383879775
+status: 3
+tags: []
+user_id: runner

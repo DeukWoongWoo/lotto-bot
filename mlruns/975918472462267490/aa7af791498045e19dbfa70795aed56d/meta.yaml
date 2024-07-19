@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/aa7af791498045e19dbfa70795aed56d/artifacts
+end_time: 1721383879762
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: aa7af791498045e19dbfa70795aed56d
+run_name: smiling-ape-640
+run_uuid: aa7af791498045e19dbfa70795aed56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721383878636
+status: 3
+tags: []
+user_id: runner

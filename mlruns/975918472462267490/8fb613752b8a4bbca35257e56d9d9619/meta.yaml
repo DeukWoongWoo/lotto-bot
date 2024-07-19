@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8fb613752b8a4bbca35257e56d9d9619/artifacts
+end_time: 1721383876173
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8fb613752b8a4bbca35257e56d9d9619
+run_name: adorable-mouse-629
+run_uuid: 8fb613752b8a4bbca35257e56d9d9619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721383875158
+status: 3
+tags: []
+user_id: runner
