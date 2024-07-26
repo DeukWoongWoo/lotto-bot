@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7f86ee72f6674900bb0e84bf35875877/artifacts
+end_time: 1721988714816
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7f86ee72f6674900bb0e84bf35875877
+run_name: legendary-robin-867
+run_uuid: 7f86ee72f6674900bb0e84bf35875877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988713641
+status: 3
+tags: []
+user_id: runner

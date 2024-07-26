@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/57cf44d67551474a8683e44515d67a5e/artifacts
+end_time: 1721988726896
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 57cf44d67551474a8683e44515d67a5e
+run_name: caring-squid-753
+run_uuid: 57cf44d67551474a8683e44515d67a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988726022
+status: 3
+tags: []
+user_id: runner

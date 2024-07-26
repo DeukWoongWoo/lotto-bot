@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/48477b263bed4778a1a179553e7cec0d/artifacts
+end_time: 1721988727536
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 48477b263bed4778a1a179553e7cec0d
+run_name: bemused-newt-369
+run_uuid: 48477b263bed4778a1a179553e7cec0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988726910
+status: 3
+tags: []
+user_id: runner

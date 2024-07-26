@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1271baaf66d346e288e4c4ed73f23422/artifacts
+end_time: 1721988716702
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1271baaf66d346e288e4c4ed73f23422
+run_name: defiant-foal-198
+run_uuid: 1271baaf66d346e288e4c4ed73f23422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988715680
+status: 3
+tags: []
+user_id: runner

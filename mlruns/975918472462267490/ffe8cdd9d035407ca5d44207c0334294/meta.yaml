@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ffe8cdd9d035407ca5d44207c0334294/artifacts
+end_time: 1721988721958
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ffe8cdd9d035407ca5d44207c0334294
+run_name: rogue-yak-869
+run_uuid: ffe8cdd9d035407ca5d44207c0334294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721988721075
+status: 3
+tags: []
+user_id: runner
