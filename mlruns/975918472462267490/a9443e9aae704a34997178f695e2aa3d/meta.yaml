@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a9443e9aae704a34997178f695e2aa3d/artifacts
+end_time: 1722593527787
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a9443e9aae704a34997178f695e2aa3d
+run_name: amazing-robin-520
+run_uuid: a9443e9aae704a34997178f695e2aa3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593526897
+status: 3
+tags: []
+user_id: runner

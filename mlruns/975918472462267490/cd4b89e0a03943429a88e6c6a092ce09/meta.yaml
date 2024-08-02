@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/cd4b89e0a03943429a88e6c6a092ce09/artifacts
+end_time: 1722593522040
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: cd4b89e0a03943429a88e6c6a092ce09
+run_name: sneaky-skink-545
+run_uuid: cd4b89e0a03943429a88e6c6a092ce09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593519049
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/90729f2558a44d06a3a7c75941ab3456/artifacts
+end_time: 1722593526883
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 90729f2558a44d06a3a7c75941ab3456
+run_name: loud-moose-671
+run_uuid: 90729f2558a44d06a3a7c75941ab3456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593525800
+status: 3
+tags: []
+user_id: runner

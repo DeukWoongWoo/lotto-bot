@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c8ce6ab4978e47929f45071007fb5480/artifacts
+end_time: 1722593525783
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c8ce6ab4978e47929f45071007fb5480
+run_name: auspicious-dog-802
+run_uuid: c8ce6ab4978e47929f45071007fb5480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593524361
+status: 3
+tags: []
+user_id: runner

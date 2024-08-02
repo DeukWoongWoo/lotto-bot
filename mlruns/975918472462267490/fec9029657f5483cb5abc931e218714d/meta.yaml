@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/fec9029657f5483cb5abc931e218714d/artifacts
+end_time: 1722593512857
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: fec9029657f5483cb5abc931e218714d
+run_name: angry-fawn-318
+run_uuid: fec9029657f5483cb5abc931e218714d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722593511660
+status: 3
+tags: []
+user_id: runner
