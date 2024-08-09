@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/269feb5dfa634d0db5954e85ccf0defc/artifacts
+end_time: 1723198386048
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 269feb5dfa634d0db5954e85ccf0defc
+run_name: redolent-shad-517
+run_uuid: 269feb5dfa634d0db5954e85ccf0defc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723198384734
+status: 3
+tags: []
+user_id: runner

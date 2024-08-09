@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c403cc064e6b4874abc3eb99dd472b2b/artifacts
+end_time: 1723198378453
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c403cc064e6b4874abc3eb99dd472b2b
+run_name: blushing-yak-122
+run_uuid: c403cc064e6b4874abc3eb99dd472b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723198377506
+status: 3
+tags: []
+user_id: runner

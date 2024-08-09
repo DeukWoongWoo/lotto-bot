@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/9d4a1c08fea84f42a9cb1af017732ebc/artifacts
+end_time: 1723198383604
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 9d4a1c08fea84f42a9cb1af017732ebc
+run_name: legendary-slug-209
+run_uuid: 9d4a1c08fea84f42a9cb1af017732ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723198382750
+status: 3
+tags: []
+user_id: runner

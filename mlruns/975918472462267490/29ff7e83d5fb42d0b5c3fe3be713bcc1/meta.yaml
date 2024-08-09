@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/29ff7e83d5fb42d0b5c3fe3be713bcc1/artifacts
+end_time: 1723198379306
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 29ff7e83d5fb42d0b5c3fe3be713bcc1
+run_name: caring-eel-715
+run_uuid: 29ff7e83d5fb42d0b5c3fe3be713bcc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723198378471
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a82e3d0a38f642a191194bf05f00baa4/artifacts
+end_time: 1723198370671
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a82e3d0a38f642a191194bf05f00baa4
+run_name: bittersweet-boar-377
+run_uuid: a82e3d0a38f642a191194bf05f00baa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723198369149
+status: 3
+tags: []
+user_id: runner
