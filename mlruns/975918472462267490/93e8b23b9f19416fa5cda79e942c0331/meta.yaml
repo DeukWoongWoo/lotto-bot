@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/93e8b23b9f19416fa5cda79e942c0331/artifacts
+end_time: 1724407919795
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 93e8b23b9f19416fa5cda79e942c0331
+run_name: upset-vole-164
+run_uuid: 93e8b23b9f19416fa5cda79e942c0331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724407918176
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8178a6b7ac294261bc6aa68cd4795a5e/artifacts
+end_time: 1724407944177
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8178a6b7ac294261bc6aa68cd4795a5e
+run_name: luxuriant-mole-626
+run_uuid: 8178a6b7ac294261bc6aa68cd4795a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724407942889
+status: 3
+tags: []
+user_id: runner

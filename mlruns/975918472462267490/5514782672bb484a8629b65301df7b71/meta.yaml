@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5514782672bb484a8629b65301df7b71/artifacts
+end_time: 1724407929955
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5514782672bb484a8629b65301df7b71
+run_name: unequaled-whale-940
+run_uuid: 5514782672bb484a8629b65301df7b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724407929152
+status: 3
+tags: []
+user_id: runner

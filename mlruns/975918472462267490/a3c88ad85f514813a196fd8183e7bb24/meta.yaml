@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a3c88ad85f514813a196fd8183e7bb24/artifacts
+end_time: 1724407927131
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a3c88ad85f514813a196fd8183e7bb24
+run_name: funny-lark-772
+run_uuid: a3c88ad85f514813a196fd8183e7bb24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724407924526
+status: 3
+tags: []
+user_id: runner

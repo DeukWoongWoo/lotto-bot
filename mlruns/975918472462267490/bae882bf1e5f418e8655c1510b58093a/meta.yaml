@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/bae882bf1e5f418e8655c1510b58093a/artifacts
+end_time: 1724407936445
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: bae882bf1e5f418e8655c1510b58093a
+run_name: bold-swan-559
+run_uuid: bae882bf1e5f418e8655c1510b58093a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724407934770
+status: 3
+tags: []
+user_id: runner
