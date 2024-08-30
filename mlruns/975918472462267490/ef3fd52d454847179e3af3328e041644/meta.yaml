@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ef3fd52d454847179e3af3328e041644/artifacts
+end_time: 1725012776755
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ef3fd52d454847179e3af3328e041644
+run_name: masked-grub-28
+run_uuid: ef3fd52d454847179e3af3328e041644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012775202
+status: 3
+tags: []
+user_id: runner

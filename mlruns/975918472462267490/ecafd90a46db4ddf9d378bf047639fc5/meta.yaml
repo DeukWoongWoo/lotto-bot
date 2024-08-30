@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ecafd90a46db4ddf9d378bf047639fc5/artifacts
+end_time: 1725012779947
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ecafd90a46db4ddf9d378bf047639fc5
+run_name: rare-goose-38
+run_uuid: ecafd90a46db4ddf9d378bf047639fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012776764
+status: 3
+tags: []
+user_id: runner

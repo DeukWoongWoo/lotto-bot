@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7a2925bcfa7a46989afa1273561ab65d/artifacts
+end_time: 1725012751204
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7a2925bcfa7a46989afa1273561ab65d
+run_name: resilient-shrimp-840
+run_uuid: 7a2925bcfa7a46989afa1273561ab65d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012750263
+status: 3
+tags: []
+user_id: runner

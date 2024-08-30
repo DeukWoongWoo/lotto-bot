@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f45b968e78d0492c8131cc5ab09fb599/artifacts
+end_time: 1725012763171
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f45b968e78d0492c8131cc5ab09fb599
+run_name: dapper-deer-399
+run_uuid: f45b968e78d0492c8131cc5ab09fb599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012762275
+status: 3
+tags: []
+user_id: runner

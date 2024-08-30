@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d60b9ca11ec84c7c9a24672ed6b1c769/artifacts
+end_time: 1725012770552
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d60b9ca11ec84c7c9a24672ed6b1c769
+run_name: placid-stork-81
+run_uuid: d60b9ca11ec84c7c9a24672ed6b1c769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012769924
+status: 3
+tags: []
+user_id: runner

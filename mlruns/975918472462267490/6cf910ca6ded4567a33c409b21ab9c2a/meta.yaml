@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/6cf910ca6ded4567a33c409b21ab9c2a/artifacts
+end_time: 1725012768481
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 6cf910ca6ded4567a33c409b21ab9c2a
+run_name: carefree-penguin-223
+run_uuid: 6cf910ca6ded4567a33c409b21ab9c2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725012767131
+status: 3
+tags: []
+user_id: runner
