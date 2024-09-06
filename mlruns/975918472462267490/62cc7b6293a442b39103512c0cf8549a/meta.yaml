@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/62cc7b6293a442b39103512c0cf8549a/artifacts
+end_time: 1725617562003
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 62cc7b6293a442b39103512c0cf8549a
+run_name: glamorous-mare-351
+run_uuid: 62cc7b6293a442b39103512c0cf8549a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617561206
+status: 3
+tags: []
+user_id: runner

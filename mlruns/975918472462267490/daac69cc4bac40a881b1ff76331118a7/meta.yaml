@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/daac69cc4bac40a881b1ff76331118a7/artifacts
+end_time: 1725617575733
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: daac69cc4bac40a881b1ff76331118a7
+run_name: flawless-bug-786
+run_uuid: daac69cc4bac40a881b1ff76331118a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617573963
+status: 3
+tags: []
+user_id: runner

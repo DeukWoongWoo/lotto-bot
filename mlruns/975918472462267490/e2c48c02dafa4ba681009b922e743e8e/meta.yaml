@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e2c48c02dafa4ba681009b922e743e8e/artifacts
+end_time: 1725617572851
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e2c48c02dafa4ba681009b922e743e8e
+run_name: thundering-duck-79
+run_uuid: e2c48c02dafa4ba681009b922e743e8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617572014
+status: 3
+tags: []
+user_id: runner

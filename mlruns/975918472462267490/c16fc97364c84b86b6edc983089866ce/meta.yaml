@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c16fc97364c84b86b6edc983089866ce/artifacts
+end_time: 1725617566046
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c16fc97364c84b86b6edc983089866ce
+run_name: agreeable-wolf-130
+run_uuid: c16fc97364c84b86b6edc983089866ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617565484
+status: 3
+tags: []
+user_id: runner

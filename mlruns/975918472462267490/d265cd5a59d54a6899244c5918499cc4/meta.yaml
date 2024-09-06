@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d265cd5a59d54a6899244c5918499cc4/artifacts
+end_time: 1725617577121
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d265cd5a59d54a6899244c5918499cc4
+run_name: bright-ant-667
+run_uuid: d265cd5a59d54a6899244c5918499cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617575749
+status: 3
+tags: []
+user_id: runner

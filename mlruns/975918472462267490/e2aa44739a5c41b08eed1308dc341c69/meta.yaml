@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e2aa44739a5c41b08eed1308dc341c69/artifacts
+end_time: 1725617565469
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e2aa44739a5c41b08eed1308dc341c69
+run_name: victorious-shark-516
+run_uuid: e2aa44739a5c41b08eed1308dc341c69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725617564670
+status: 3
+tags: []
+user_id: runner
