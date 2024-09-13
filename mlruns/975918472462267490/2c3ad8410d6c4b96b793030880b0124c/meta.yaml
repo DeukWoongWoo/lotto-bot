@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2c3ad8410d6c4b96b793030880b0124c/artifacts
+end_time: 1726222329614
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2c3ad8410d6c4b96b793030880b0124c
+run_name: hilarious-sheep-91
+run_uuid: 2c3ad8410d6c4b96b793030880b0124c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222328478
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c1a0d90eb5024403b7a3bb764529a896/artifacts
+end_time: 1726222345602
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c1a0d90eb5024403b7a3bb764529a896
+run_name: righteous-conch-70
+run_uuid: c1a0d90eb5024403b7a3bb764529a896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222344670
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5ed9efdc1a1643e4a343b39666bab2fa/artifacts
+end_time: 1726222339973
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5ed9efdc1a1643e4a343b39666bab2fa
+run_name: thoughtful-stoat-850
+run_uuid: 5ed9efdc1a1643e4a343b39666bab2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222337089
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1542c2a62b0d4b72b29cc185cad7c478/artifacts
+end_time: 1726222337074
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1542c2a62b0d4b72b29cc185cad7c478
+run_name: caring-sloth-544
+run_uuid: 1542c2a62b0d4b72b29cc185cad7c478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726222335600
+status: 3
+tags: []
+user_id: runner
