@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f2145224c2dc48f2880e65aadb1c0ade/artifacts
+end_time: 1726827148860
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f2145224c2dc48f2880e65aadb1c0ade
+run_name: intelligent-fowl-666
+run_uuid: f2145224c2dc48f2880e65aadb1c0ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726827145760
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a308704a60ca469f8e03da0cbb6cd98e/artifacts
+end_time: 1726827149534
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a308704a60ca469f8e03da0cbb6cd98e
+run_name: ambitious-conch-3
+run_uuid: a308704a60ca469f8e03da0cbb6cd98e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726827148875
+status: 3
+tags: []
+user_id: runner

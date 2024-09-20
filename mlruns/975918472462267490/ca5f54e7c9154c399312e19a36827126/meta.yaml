@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ca5f54e7c9154c399312e19a36827126/artifacts
+end_time: 1726827170663
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ca5f54e7c9154c399312e19a36827126
+run_name: honorable-bat-595
+run_uuid: ca5f54e7c9154c399312e19a36827126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726827169054
+status: 3
+tags: []
+user_id: runner

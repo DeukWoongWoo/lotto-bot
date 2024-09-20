@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5f11b736792d415bb8a256924f0abdb2/artifacts
+end_time: 1726827160403
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5f11b736792d415bb8a256924f0abdb2
+run_name: treasured-bass-287
+run_uuid: 5f11b736792d415bb8a256924f0abdb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726827155454
+status: 3
+tags: []
+user_id: runner
