@@ -1,0 +1,12 @@
+creation_timestamp: 1727432002347
+current_stage: None
+description: null
+last_updated_timestamp: 1727432002347
+name: lotto
+run_id: 7efd3b60b3d24b5798dd9cc12afd8cf5
+run_link: null
+source: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7efd3b60b3d24b5798dd9cc12afd8cf5/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 81

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5ff52eb8884f417e9e02700ba01a362e/artifacts
+end_time: 1727431980786
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5ff52eb8884f417e9e02700ba01a362e
+run_name: incongruous-ant-596
+run_uuid: 5ff52eb8884f417e9e02700ba01a362e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727431979248
+status: 3
+tags: []
+user_id: runner

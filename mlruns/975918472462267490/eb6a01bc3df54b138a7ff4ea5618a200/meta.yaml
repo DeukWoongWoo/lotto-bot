@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/eb6a01bc3df54b138a7ff4ea5618a200/artifacts
+end_time: 1727431982953
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: eb6a01bc3df54b138a7ff4ea5618a200
+run_name: classy-vole-513
+run_uuid: eb6a01bc3df54b138a7ff4ea5618a200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727431982158
+status: 3
+tags: []
+user_id: runner

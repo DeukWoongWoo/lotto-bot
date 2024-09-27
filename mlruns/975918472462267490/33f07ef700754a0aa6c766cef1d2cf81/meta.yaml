@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/33f07ef700754a0aa6c766cef1d2cf81/artifacts
+end_time: 1727431978252
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 33f07ef700754a0aa6c766cef1d2cf81
+run_name: suave-robin-732
+run_uuid: 33f07ef700754a0aa6c766cef1d2cf81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727431976058
+status: 3
+tags: []
+user_id: runner

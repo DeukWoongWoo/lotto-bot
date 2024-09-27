@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/814ba74c79d747be943c4469fc12b815/artifacts
+end_time: 1727431982140
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 814ba74c79d747be943c4469fc12b815
+run_name: luxuriant-carp-419
+run_uuid: 814ba74c79d747be943c4469fc12b815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727431980802
+status: 3
+tags: []
+user_id: runner
