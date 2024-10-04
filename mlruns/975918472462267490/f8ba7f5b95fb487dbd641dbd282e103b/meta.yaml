@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/f8ba7f5b95fb487dbd641dbd282e103b/artifacts
+end_time: 1728036739186
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: f8ba7f5b95fb487dbd641dbd282e103b
+run_name: beautiful-sloth-756
+run_uuid: f8ba7f5b95fb487dbd641dbd282e103b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728036737883
+status: 3
+tags: []
+user_id: runner

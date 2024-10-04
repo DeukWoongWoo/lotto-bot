@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/51899ff649584ff8aac124d6dd08e16c/artifacts
+end_time: 1728036745547
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 51899ff649584ff8aac124d6dd08e16c
+run_name: skittish-asp-468
+run_uuid: 51899ff649584ff8aac124d6dd08e16c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728036742366
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3c871000d4634cff8daa3d310d8813fa/artifacts
+end_time: 1728036742351
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3c871000d4634cff8daa3d310d8813fa
+run_name: defiant-bug-404
+run_uuid: 3c871000d4634cff8daa3d310d8813fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728036740918
+status: 3
+tags: []
+user_id: runner

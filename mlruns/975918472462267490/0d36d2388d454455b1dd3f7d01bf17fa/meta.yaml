@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/0d36d2388d454455b1dd3f7d01bf17fa/artifacts
+end_time: 1728036735513
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 0d36d2388d454455b1dd3f7d01bf17fa
+run_name: amazing-mink-518
+run_uuid: 0d36d2388d454455b1dd3f7d01bf17fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728036734563
+status: 3
+tags: []
+user_id: runner

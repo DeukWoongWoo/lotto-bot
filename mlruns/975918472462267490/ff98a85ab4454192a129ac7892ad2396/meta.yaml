@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ff98a85ab4454192a129ac7892ad2396/artifacts
+end_time: 1728036749637
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ff98a85ab4454192a129ac7892ad2396
+run_name: gaudy-moose-690
+run_uuid: ff98a85ab4454192a129ac7892ad2396
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728036748460
+status: 3
+tags: []
+user_id: runner

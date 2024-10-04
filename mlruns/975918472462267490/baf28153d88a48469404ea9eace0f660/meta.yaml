@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/baf28153d88a48469404ea9eace0f660/artifacts
+end_time: 1728036739917
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: baf28153d88a48469404ea9eace0f660
+run_name: illustrious-roo-881
+run_uuid: baf28153d88a48469404ea9eace0f660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728036739201
+status: 3
+tags: []
+user_id: runner

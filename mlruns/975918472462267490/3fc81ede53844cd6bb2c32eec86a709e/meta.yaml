@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/3fc81ede53844cd6bb2c32eec86a709e/artifacts
+end_time: 1728036737869
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 3fc81ede53844cd6bb2c32eec86a709e
+run_name: calm-jay-526
+run_uuid: 3fc81ede53844cd6bb2c32eec86a709e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728036736298
+status: 3
+tags: []
+user_id: runner
