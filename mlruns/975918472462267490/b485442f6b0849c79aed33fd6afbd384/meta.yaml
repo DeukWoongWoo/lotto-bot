@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b485442f6b0849c79aed33fd6afbd384/artifacts
+end_time: 1728641555046
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b485442f6b0849c79aed33fd6afbd384
+run_name: melodic-penguin-73
+run_uuid: b485442f6b0849c79aed33fd6afbd384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641552912
+status: 3
+tags: []
+user_id: runner

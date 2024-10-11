@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/c12fd460c5084b2684d3c96b91d9794e/artifacts
+end_time: 1728641543419
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: c12fd460c5084b2684d3c96b91d9794e
+run_name: gifted-auk-714
+run_uuid: c12fd460c5084b2684d3c96b91d9794e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641542590
+status: 3
+tags: []
+user_id: runner

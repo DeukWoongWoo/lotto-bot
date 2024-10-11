@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/abf057b635174c2697e75c0c822bbcc9/artifacts
+end_time: 1728641552897
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: abf057b635174c2697e75c0c822bbcc9
+run_name: intrigued-pug-934
+run_uuid: abf057b635174c2697e75c0c822bbcc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641550958
+status: 3
+tags: []
+user_id: runner

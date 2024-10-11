@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d58e43494c664426bdead50d76bd30ee/artifacts
+end_time: 1728641540831
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d58e43494c664426bdead50d76bd30ee
+run_name: rebellious-donkey-97
+run_uuid: d58e43494c664426bdead50d76bd30ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641539703
+status: 3
+tags: []
+user_id: runner

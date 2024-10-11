@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/2b6a3d8372314e0d9220c11253ee9959/artifacts
+end_time: 1728641538235
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 2b6a3d8372314e0d9220c11253ee9959
+run_name: rogue-shoat-436
+run_uuid: 2b6a3d8372314e0d9220c11253ee9959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641536970
+status: 3
+tags: []
+user_id: runner

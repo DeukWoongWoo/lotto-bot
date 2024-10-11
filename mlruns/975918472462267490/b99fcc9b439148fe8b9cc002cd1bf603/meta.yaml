@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b99fcc9b439148fe8b9cc002cd1bf603/artifacts
+end_time: 1728641545136
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b99fcc9b439148fe8b9cc002cd1bf603
+run_name: marvelous-lamb-603
+run_uuid: b99fcc9b439148fe8b9cc002cd1bf603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728641543433
+status: 3
+tags: []
+user_id: runner
