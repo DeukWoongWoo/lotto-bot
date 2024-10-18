@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/18b7374f42754b30ba94dd3c6cf87700/artifacts
+end_time: 1729246434605
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 18b7374f42754b30ba94dd3c6cf87700
+run_name: indecisive-ape-287
+run_uuid: 18b7374f42754b30ba94dd3c6cf87700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246433114
+status: 3
+tags: []
+user_id: runner

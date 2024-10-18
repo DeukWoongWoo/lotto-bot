@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/76d99af706cc463ca340e8c26a29a98c/artifacts
+end_time: 1729246424109
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 76d99af706cc463ca340e8c26a29a98c
+run_name: gifted-crow-771
+run_uuid: 76d99af706cc463ca340e8c26a29a98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246422914
+status: 3
+tags: []
+user_id: runner

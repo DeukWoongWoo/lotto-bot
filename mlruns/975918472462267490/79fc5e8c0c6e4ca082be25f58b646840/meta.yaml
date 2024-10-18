@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/79fc5e8c0c6e4ca082be25f58b646840/artifacts
+end_time: 1729246432455
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 79fc5e8c0c6e4ca082be25f58b646840
+run_name: debonair-dolphin-104
+run_uuid: 79fc5e8c0c6e4ca082be25f58b646840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246430936
+status: 3
+tags: []
+user_id: runner

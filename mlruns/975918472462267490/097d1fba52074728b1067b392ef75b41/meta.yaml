@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/097d1fba52074728b1067b392ef75b41/artifacts
+end_time: 1729246441644
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 097d1fba52074728b1067b392ef75b41
+run_name: dazzling-slug-39
+run_uuid: 097d1fba52074728b1067b392ef75b41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246439469
+status: 3
+tags: []
+user_id: runner

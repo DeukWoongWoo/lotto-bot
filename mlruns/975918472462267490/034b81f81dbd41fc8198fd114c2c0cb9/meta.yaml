@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/034b81f81dbd41fc8198fd114c2c0cb9/artifacts
+end_time: 1729246424777
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 034b81f81dbd41fc8198fd114c2c0cb9
+run_name: loud-loon-948
+run_uuid: 034b81f81dbd41fc8198fd114c2c0cb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246424125
+status: 3
+tags: []
+user_id: runner

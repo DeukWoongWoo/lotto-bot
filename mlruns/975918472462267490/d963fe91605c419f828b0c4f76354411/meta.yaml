@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d963fe91605c419f828b0c4f76354411/artifacts
+end_time: 1729246442455
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d963fe91605c419f828b0c4f76354411
+run_name: handsome-jay-358
+run_uuid: d963fe91605c419f828b0c4f76354411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729246441658
+status: 3
+tags: []
+user_id: runner
