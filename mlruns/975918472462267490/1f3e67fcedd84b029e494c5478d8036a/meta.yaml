@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1f3e67fcedd84b029e494c5478d8036a/artifacts
+end_time: 1729851188950
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1f3e67fcedd84b029e494c5478d8036a
+run_name: respected-deer-331
+run_uuid: 1f3e67fcedd84b029e494c5478d8036a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851187134
+status: 3
+tags: []
+user_id: runner

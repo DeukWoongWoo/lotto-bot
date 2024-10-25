@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/951313017f10423197443d4f63d24478/artifacts
+end_time: 1729851175609
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 951313017f10423197443d4f63d24478
+run_name: resilient-sheep-363
+run_uuid: 951313017f10423197443d4f63d24478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729851174746
+status: 3
+tags: []
+user_id: runner
