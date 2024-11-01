@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/7c03ffba9a794e03924120036d62d1ea/artifacts
+end_time: 1730456042081
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 7c03ffba9a794e03924120036d62d1ea
+run_name: grandiose-moose-508
+run_uuid: 7c03ffba9a794e03924120036d62d1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456040776
+status: 3
+tags: []
+user_id: runner

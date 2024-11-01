@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b4343db916db4e968b63a6d4643c249d/artifacts
+end_time: 1730456040754
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b4343db916db4e968b63a6d4643c249d
+run_name: capable-colt-266
+run_uuid: b4343db916db4e968b63a6d4643c249d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456039778
+status: 3
+tags: []
+user_id: runner

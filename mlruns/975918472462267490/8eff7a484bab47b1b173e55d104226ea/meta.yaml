@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8eff7a484bab47b1b173e55d104226ea/artifacts
+end_time: 1730456039755
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8eff7a484bab47b1b173e55d104226ea
+run_name: vaunted-swan-46
+run_uuid: 8eff7a484bab47b1b173e55d104226ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456038695
+status: 3
+tags: []
+user_id: runner

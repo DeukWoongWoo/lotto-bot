@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/5d768901ab0b4f6aba295de17ecf2be3/artifacts
+end_time: 1730456043625
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 5d768901ab0b4f6aba295de17ecf2be3
+run_name: youthful-sheep-320
+run_uuid: 5d768901ab0b4f6aba295de17ecf2be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456042098
+status: 3
+tags: []
+user_id: runner

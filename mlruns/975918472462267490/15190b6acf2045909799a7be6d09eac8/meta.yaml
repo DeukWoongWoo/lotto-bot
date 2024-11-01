@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/15190b6acf2045909799a7be6d09eac8/artifacts
+end_time: 1730456038678
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 15190b6acf2045909799a7be6d09eac8
+run_name: stylish-jay-665
+run_uuid: 15190b6acf2045909799a7be6d09eac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730456036578
+status: 3
+tags: []
+user_id: runner
