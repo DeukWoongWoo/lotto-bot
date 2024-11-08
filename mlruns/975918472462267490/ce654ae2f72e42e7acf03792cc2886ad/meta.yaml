@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ce654ae2f72e42e7acf03792cc2886ad/artifacts
+end_time: 1731060769693
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ce654ae2f72e42e7acf03792cc2886ad
+run_name: mysterious-kite-953
+run_uuid: ce654ae2f72e42e7acf03792cc2886ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060767795
+status: 3
+tags: []
+user_id: runner

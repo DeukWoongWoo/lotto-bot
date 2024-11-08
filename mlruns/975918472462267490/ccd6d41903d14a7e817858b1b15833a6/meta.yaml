@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ccd6d41903d14a7e817858b1b15833a6/artifacts
+end_time: 1731060774067
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ccd6d41903d14a7e817858b1b15833a6
+run_name: marvelous-goose-567
+run_uuid: ccd6d41903d14a7e817858b1b15833a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060772329
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e10c05b31ccf48229028dfed24a85356/artifacts
+end_time: 1731060762836
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e10c05b31ccf48229028dfed24a85356
+run_name: delicate-chimp-403
+run_uuid: e10c05b31ccf48229028dfed24a85356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060761113
+status: 3
+tags: []
+user_id: runner

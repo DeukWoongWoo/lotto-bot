@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e08ad40e65f34a839e22039eed929a52/artifacts
+end_time: 1731060752081
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e08ad40e65f34a839e22039eed929a52
+run_name: hilarious-hog-0
+run_uuid: e08ad40e65f34a839e22039eed929a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060749996
+status: 3
+tags: []
+user_id: runner

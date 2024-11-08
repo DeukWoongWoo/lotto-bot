@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a3c038e5b943421ba3606dd820384bbc/artifacts
+end_time: 1731060774943
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a3c038e5b943421ba3606dd820384bbc
+run_name: upset-fox-928
+run_uuid: a3c038e5b943421ba3606dd820384bbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731060774083
+status: 3
+tags: []
+user_id: runner
