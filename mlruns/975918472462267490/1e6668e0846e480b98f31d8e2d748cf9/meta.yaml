@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/1e6668e0846e480b98f31d8e2d748cf9/artifacts
+end_time: 1731665624150
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 1e6668e0846e480b98f31d8e2d748cf9
+run_name: illustrious-goat-971
+run_uuid: 1e6668e0846e480b98f31d8e2d748cf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665619783
+status: 3
+tags: []
+user_id: runner

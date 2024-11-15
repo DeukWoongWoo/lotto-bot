@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4f89819e9c9a420eb25d59b4521444b5/artifacts
+end_time: 1731665601734
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4f89819e9c9a420eb25d59b4521444b5
+run_name: classy-loon-791
+run_uuid: 4f89819e9c9a420eb25d59b4521444b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665599748
+status: 3
+tags: []
+user_id: runner

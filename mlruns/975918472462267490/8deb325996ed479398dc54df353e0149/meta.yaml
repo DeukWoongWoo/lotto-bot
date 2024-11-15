@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/8deb325996ed479398dc54df353e0149/artifacts
+end_time: 1731665636171
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 8deb325996ed479398dc54df353e0149
+run_name: bustling-grouse-105
+run_uuid: 8deb325996ed479398dc54df353e0149
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665633552
+status: 3
+tags: []
+user_id: runner

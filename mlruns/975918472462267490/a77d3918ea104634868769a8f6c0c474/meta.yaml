@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/a77d3918ea104634868769a8f6c0c474/artifacts
+end_time: 1731665614682
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: a77d3918ea104634868769a8f6c0c474
+run_name: mercurial-fish-970
+run_uuid: a77d3918ea104634868769a8f6c0c474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665613557
+status: 3
+tags: []
+user_id: runner

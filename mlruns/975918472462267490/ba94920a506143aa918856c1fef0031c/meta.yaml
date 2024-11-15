@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/ba94920a506143aa918856c1fef0031c/artifacts
+end_time: 1731665611007
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: ba94920a506143aa918856c1fef0031c
+run_name: chill-fowl-95
+run_uuid: ba94920a506143aa918856c1fef0031c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731665608645
+status: 3
+tags: []
+user_id: runner
