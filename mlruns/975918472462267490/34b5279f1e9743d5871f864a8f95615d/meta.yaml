@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/34b5279f1e9743d5871f864a8f95615d/artifacts
+end_time: 1732270432395
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 34b5279f1e9743d5871f864a8f95615d
+run_name: nosy-whale-233
+run_uuid: 34b5279f1e9743d5871f864a8f95615d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270431269
+status: 3
+tags: []
+user_id: runner

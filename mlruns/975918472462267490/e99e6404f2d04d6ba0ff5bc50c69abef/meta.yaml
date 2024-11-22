@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e99e6404f2d04d6ba0ff5bc50c69abef/artifacts
+end_time: 1732270435497
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e99e6404f2d04d6ba0ff5bc50c69abef
+run_name: masked-stag-256
+run_uuid: e99e6404f2d04d6ba0ff5bc50c69abef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270434304
+status: 3
+tags: []
+user_id: runner

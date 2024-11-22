@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e1c31026ff104623b46297cacfe6f03f/artifacts
+end_time: 1732270440728
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e1c31026ff104623b46297cacfe6f03f
+run_name: smiling-shoat-486
+run_uuid: e1c31026ff104623b46297cacfe6f03f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270439320
+status: 3
+tags: []
+user_id: runner

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/e3e800af227d4e0491a407ea4a029649/artifacts
+end_time: 1732270442530
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: e3e800af227d4e0491a407ea4a029649
+run_name: indecisive-pig-542
+run_uuid: e3e800af227d4e0491a407ea4a029649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270441542
+status: 3
+tags: []
+user_id: runner

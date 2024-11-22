@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/30546355920847c4820aba59e6a88509/artifacts
+end_time: 1732270443702
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 30546355920847c4820aba59e6a88509
+run_name: adventurous-gull-663
+run_uuid: 30546355920847c4820aba59e6a88509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270442549
+status: 3
+tags: []
+user_id: runner

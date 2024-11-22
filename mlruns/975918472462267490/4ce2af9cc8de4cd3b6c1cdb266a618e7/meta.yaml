@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/4ce2af9cc8de4cd3b6c1cdb266a618e7/artifacts
+end_time: 1732270441527
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 4ce2af9cc8de4cd3b6c1cdb266a618e7
+run_name: casual-trout-307
+run_uuid: 4ce2af9cc8de4cd3b6c1cdb266a618e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732270440746
+status: 3
+tags: []
+user_id: runner
