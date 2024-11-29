@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/381f7a28e0e8440393a70d97e898e1a9/artifacts
+end_time: 1732875232222
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 381f7a28e0e8440393a70d97e898e1a9
+run_name: fun-perch-229
+run_uuid: 381f7a28e0e8440393a70d97e898e1a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875231133
+status: 3
+tags: []
+user_id: runner

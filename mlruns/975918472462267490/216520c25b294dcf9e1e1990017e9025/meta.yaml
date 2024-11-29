@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/216520c25b294dcf9e1e1990017e9025/artifacts
+end_time: 1732875230246
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 216520c25b294dcf9e1e1990017e9025
+run_name: sincere-hog-114
+run_uuid: 216520c25b294dcf9e1e1990017e9025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875229561
+status: 3
+tags: []
+user_id: runner

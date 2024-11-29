@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/b42a54a6b29f49c8be239e09d5593060/artifacts
+end_time: 1732875215981
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: b42a54a6b29f49c8be239e09d5593060
+run_name: bedecked-boar-6
+run_uuid: b42a54a6b29f49c8be239e09d5593060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875214853
+status: 3
+tags: []
+user_id: runner

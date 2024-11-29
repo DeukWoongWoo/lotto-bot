@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/23c01f561bc24c8390488483dae09d74/artifacts
+end_time: 1732875225551
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 23c01f561bc24c8390488483dae09d74
+run_name: fun-dog-557
+run_uuid: 23c01f561bc24c8390488483dae09d74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875224601
+status: 3
+tags: []
+user_id: runner

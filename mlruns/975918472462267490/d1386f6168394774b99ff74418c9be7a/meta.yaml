@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/d1386f6168394774b99ff74418c9be7a/artifacts
+end_time: 1732875220379
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: d1386f6168394774b99ff74418c9be7a
+run_name: agreeable-croc-1000
+run_uuid: d1386f6168394774b99ff74418c9be7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875219590
+status: 3
+tags: []
+user_id: runner

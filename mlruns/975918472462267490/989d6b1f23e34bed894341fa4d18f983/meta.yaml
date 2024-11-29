@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/runner/work/lotto-bot/lotto-bot/mlruns/975918472462267490/989d6b1f23e34bed894341fa4d18f983/artifacts
+end_time: 1732875221590
+entry_point_name: ''
+experiment_id: '975918472462267490'
+lifecycle_stage: active
+run_id: 989d6b1f23e34bed894341fa4d18f983
+run_name: sneaky-hawk-632
+run_uuid: 989d6b1f23e34bed894341fa4d18f983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875220394
+status: 3
+tags: []
+user_id: runner
